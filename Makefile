@@ -1,5 +1,5 @@
 PROJ_PTH=$(dir $(abspath $(lastword $(MAKEFILE_LIST))))
-APP_PATH = src/mmap
+APP_PATH = src/map_app
 LINT_PATHS = $(APP_PATH) tests
 
 lint:
@@ -47,7 +47,7 @@ sync-deps-prod:
 ### Migrations ###
 ##################
 makemigrations:
-	cd ${APP_PATH}/infrastructure/alembic; alembic revision --autogenerate
+	cd ${APP_PATH}/models/alembic; alembic revision --autogenerate
 
 migrate:
-	cd ${APP_PATH}/infrastructure/alembic; alembic upgrade head
+	cd ${APP_PATH}/models/alembic; alembic upgrade head

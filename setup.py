@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name="mmap",
+    name="map_app",
     version="0.1",
-    packages=["mmap"],
+    packages=["map_app"],
     package_dir={"": "src"},
     # entry_points={
     # 'console_scripts': [
