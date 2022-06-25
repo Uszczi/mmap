@@ -2,12 +2,12 @@ version: "3.8"
 
 services:
   db:
-    container_name: map_app_db
+    container_name: mmap_db
     image: library/postgres:12.3
     ports:
-      - "5544:5544"
+      - "5520:5520"
     environment:
-      - POSTGRES_DB=map_app
-      - POSTGRES_USER=map_app
-      - POSTGRES_PASSWORD=map_app
-      - PGPORT=5544
+      - POSTGRES_DB=mmap
+      - POSTGRES_USER=mmap
+      - POSTGRES_PASSWORD=mmap
+      - PGPORT=5520
