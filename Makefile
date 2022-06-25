@@ -12,7 +12,7 @@ run:
 	cd ${APP_PATH}/web_app && uvicorn app:app --reload --lifespan=off --host 0.0.0.0 --port 8010
 
 db-run:
-	cd ${PROJ_PTH}deployment/database;  docker-compose -f docker-compose.yml up -d
+	docker-compose -f docker/docker-compose.yml up -d
 
 db-remove:
 	docker rm -f database-map-app-db-1
