@@ -1,19 +1,17 @@
-from typing import List
 from fastapi import FastAPI
-
 from fastapi.middleware.cors import CORSMiddleware
-from xml.etree import ElementTree as ET
-from map_app.models.route import RouteModel, Route
-from sqlalchemy import create_engine
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
-from map_app.web_app.config import config
+
 from map_app.routers.main import router
-app = FastAPI(docs_url="/api/docs", redoc_url="/api/redoc", openapi_url="/api/openapi.json")
+
+app = FastAPI(
+    docs_url="/api/docs", redoc_url="/api/redoc", openapi_url="/api/openapi.json"
+)
+
 
 @app.get("/")
 def hello_world():
-    return {"hhjhjello":"world"}
+    return {"hhjhjello": "world"}
+
 
 origins = [
     "http://localhost",

@@ -2,6 +2,9 @@ PROJ_PTH=$(dir $(abspath $(lastword $(MAKEFILE_LIST))))
 APP_PATH = src/map_app
 LINT_PATHS = $(APP_PATH) tests
 
+%:
+	@:
+
 lint:
 	python -m autoflake --in-place --recursive --ignore-init-module-imports --remove-duplicate-keys --remove-unused-variables --remove-all-unused-imports $(LINT_PATHS)
 	python -m black $(LINT_PATHS)
@@ -18,8 +21,7 @@ db-remove:
 	docker rm -f database-map-app-db-1
 
 cli:
-	python ${APP_PATH}/cli/main.py
-
+	python ${APP_PATH}/cli/main.py $(filter-out $@,$(MAKECMDGOALS))
 
 ####################
 ### Dependencies ###

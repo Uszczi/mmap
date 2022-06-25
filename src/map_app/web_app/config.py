@@ -1,4 +1,3 @@
-
 from typing import Any, Dict
 
 from pydantic import BaseSettings, PostgresDsn, validator
@@ -11,16 +10,13 @@ class Config(BaseSettings):
     DB_NAME: str | None = None
     DB_HOST: str | None = None
 
-    SQLALCHEMY_DATABASE_URI: PostgresDsn | None
+    SQLALCHEMY_DATABASE_URI: PostgresDsn | None = None
 
     @validator("SQLALCHEMY_DATABASE_URI", pre=True, always=True)
-    def assemble_db_connection(
-        cls, value: str | None, values: Dict[str, Any]
-    ) -> str:
+    def assemble_db_connection(cls, value: str | None, values: Dict[str, Any]) -> str:
         if isinstance(value, str):
             db_url = value
         else:
-            print(values)
             try:
                 db_url = PostgresDsn.build(
                     scheme="postgresql",
@@ -35,5 +31,10 @@ class Config(BaseSettings):
                     "Provide db credentials as DATABASE_URL or parts DB_HOST, DB_USER"
                 ) from e
         return db_url
+
+    @property
+    def DATABASE_URL(self) -> PostgresDsn:
+        return self.SQLALCHEMY_DATABASE_URI  # type: ignore
+
 
 config = Config()

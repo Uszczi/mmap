@@ -1,1 +1,7 @@
 -r ./prod.in
+
+autoflake
+black
+isort
+mypy
+
