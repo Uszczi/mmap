@@ -9,7 +9,7 @@ lint:
 	python -m mypy $(APP_PATH) --ignore-missing-imports
 
 run:
-	cd ${APP_PATH}/web_app && uvicorn app:app --reload --lifespan=off --host 0.0.0.0 --port 8010
+	cd ${APP_PATH}/web_app && uvicorn app:app --reload --lifespan=off --host 0.0.0.0 --port 8020
 
 db-run:
 	docker-compose -f docker/docker-compose.yml up -d
@@ -35,12 +35,15 @@ recompile-deps:
 
 
 sync-deps:
+	python -m pip install pip-tools
 	python -m piptools sync "requirements/dev.txt"
 	python -m pip install -e .
 
 
 sync-deps-prod:
+	python -m pip install pip-tools
 	python -m piptools sync "requirements/prod.txt"
+	python -m pip install -e .
 
 
 ##################

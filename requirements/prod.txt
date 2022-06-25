@@ -18,6 +18,8 @@ mako==1.2.0
     # via alembic
 markupsafe==2.1.1
     # via mako
+psycopg2-binary==2.9.3
+    # via -r requirements/prod.in
 pydantic==1.9.0
     # via fastapi
 sniffio==1.2.0

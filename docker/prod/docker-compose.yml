@@ -1,0 +1,24 @@
+version: "3.3"
+services:
+  mmap:
+    container_name: mmap
+    env_file: .env
+    volumes:
+      - type: bind
+        source: ../..
+        target: /app
+    build:
+      context: ../..
+      dockerfile: ./docker/prod/Dockerfile
+    ports:
+      - "8020:8020"
+  db:
+    container_name: mmap_db
+    image: library/postgres:12.3
+    ports:
+      - "5520:5520"
+    environment:
+      - POSTGRES_DB=mmap
+      - POSTGRES_USER=mmap
+      - POSTGRES_PASSWORD=mmap
+      - PGPORT=5520
