@@ -1,0 +1,100 @@
+[
+    {"sport": "FITNESS_WALKING"},
+    {"source": "TRACK_MOBILE"},
+    {"created_date": "2020-09-27 12:12:34.0"},
+    {"start_time": "2020-09-27 12:12:15.0"},
+    {"end_time": "2020-09-27 12:12:31.0"},
+    {"duration_s": 15},
+    {"distance_km": 0.05966699868440628},
+    {"calories_kcal": 3},
+    {"altitude_min_m": 209.316},
+    {"altitude_max_m": 226.885},
+    {"speed_avg_kmh": 14.320079684257509},
+    {"speed_max_kmh": 17.4248},
+    {"hydration_l": 0.001645},
+    {"ascend_m": 17.569},
+    {"descend_m": 0},
+    {"points": [
+        [
+            {"location": [[
+                {"latitude": 51.616175},
+                {"longitude": 19.193053}
+            ]]},
+            {"distance_km": 0},
+            {"timestamp": "Sun Sep 27 12:12:15 UTC 2020"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616175},
+                {"longitude": 19.193053}
+            ]]},
+            {"altitude": 209.316},
+            {"distance_km": 0},
+            {"timestamp": "Sun Sep 27 12:12:18 UTC 2020"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616208},
+                {"longitude": 19.19313}
+            ]]},
+            {"altitude": 213.63},
+            {"distance_km": 0.025461},
+            {"timestamp": "Sun Sep 27 12:12:19 UTC 2020"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61619},
+                {"longitude": 19.193233}
+            ]]},
+            {"altitude": 217.528},
+            {"distance_km": 0.032863},
+            {"timestamp": "Sun Sep 27 12:12:21 UTC 2020"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.6162},
+                {"longitude": 19.193324}
+            ]]},
+            {"altitude": 217.976},
+            {"distance_km": 0.039262},
+            {"speed_kmh": 17.4248},
+            {"timestamp": "Sun Sep 27 12:12:23 UTC 2020"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616084},
+                {"longitude": 19.193325}
+            ]]},
+            {"altitude": 226.885},
+            {"distance_km": 0.052184},
+            {"speed_kmh": 15.7154},
+            {"timestamp": "Sun Sep 27 12:12:29 UTC 2020"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616031},
+                {"longitude": 19.193391}
+            ]]},
+            {"altitude": 221.524},
+            {"distance_km": 0.059667},
+            {"speed_kmh": 15.3321},
+            {"timestamp": "Sun Sep 27 12:12:31 UTC 2020"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616031},
+                {"longitude": 19.193391}
+            ]]},
+            {"distance_km": 0.059667},
+            {"timestamp": "Sun Sep 27 12:12:31 UTC 2020"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616031},
+                {"longitude": 19.193391}
+            ]]},
+            {"distance_km": 0.059667},
+            {"timestamp": "Sun Sep 27 12:12:33 UTC 2020"}
+        ]
+    ]}
+]

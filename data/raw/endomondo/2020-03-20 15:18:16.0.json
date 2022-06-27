@@ -1,0 +1,5661 @@
+[
+    {"sport": "RUNNING"},
+    {"source": "IMPORT_API_CLIENT_TRACKED"},
+    {"created_date": "2020-03-20 15:18:16.0"},
+    {"start_time": "2019-05-27 14:23:10.0"},
+    {"end_time": "2019-05-27 14:48:05.0"},
+    {"duration_s": 1492},
+    {"distance_km": 3.8675930500030518},
+    {"calories_kcal": 253},
+    {"speed_avg_kmh": 9.331993954430956},
+    {"speed_max_kmh": 23.3},
+    {"ascend_m": 135.199},
+    {"descend_m": 135.015},
+    {"points": [
+        [
+            {"location": [[
+                {"latitude": 51.616766},
+                {"longitude": 19.187644}
+            ]]},
+            {"timestamp": "Mon May 27 14:23:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616766},
+                {"longitude": 19.187644}
+            ]]},
+            {"altitude": 217.725},
+            {"timestamp": "Mon May 27 14:23:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616719},
+                {"longitude": 19.187655}
+            ]]},
+            {"altitude": 211.898},
+            {"timestamp": "Mon May 27 14:23:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616657},
+                {"longitude": 19.187677}
+            ]]},
+            {"altitude": 213.359},
+            {"timestamp": "Mon May 27 14:23:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616613},
+                {"longitude": 19.187687}
+            ]]},
+            {"altitude": 211.107},
+            {"timestamp": "Mon May 27 14:23:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616588},
+                {"longitude": 19.187696}
+            ]]},
+            {"altitude": 210.488},
+            {"timestamp": "Mon May 27 14:23:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616564},
+                {"longitude": 19.187703}
+            ]]},
+            {"altitude": 209.884},
+            {"timestamp": "Mon May 27 14:23:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616516},
+                {"longitude": 19.187712}
+            ]]},
+            {"altitude": 210.888},
+            {"timestamp": "Mon May 27 14:23:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616492},
+                {"longitude": 19.187715}
+            ]]},
+            {"altitude": 209.474},
+            {"timestamp": "Mon May 27 14:23:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616467},
+                {"longitude": 19.187717}
+            ]]},
+            {"altitude": 209.233},
+            {"timestamp": "Mon May 27 14:23:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616398},
+                {"longitude": 19.187722}
+            ]]},
+            {"altitude": 205.817},
+            {"timestamp": "Mon May 27 14:23:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616324},
+                {"longitude": 19.187637}
+            ]]},
+            {"altitude": 206.605},
+            {"timestamp": "Mon May 27 14:23:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616238},
+                {"longitude": 19.187545}
+            ]]},
+            {"altitude": 209.263},
+            {"timestamp": "Mon May 27 14:23:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616204},
+                {"longitude": 19.187501}
+            ]]},
+            {"altitude": 208.251},
+            {"timestamp": "Mon May 27 14:23:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616172},
+                {"longitude": 19.187364}
+            ]]},
+            {"altitude": 208.647},
+            {"timestamp": "Mon May 27 14:23:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616178},
+                {"longitude": 19.187284}
+            ]]},
+            {"altitude": 207.744},
+            {"timestamp": "Mon May 27 14:23:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616198},
+                {"longitude": 19.187214}
+            ]]},
+            {"altitude": 207.573},
+            {"timestamp": "Mon May 27 14:23:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616218},
+                {"longitude": 19.187145}
+            ]]},
+            {"altitude": 207.095},
+            {"timestamp": "Mon May 27 14:23:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616235},
+                {"longitude": 19.187085}
+            ]]},
+            {"altitude": 208.629},
+            {"timestamp": "Mon May 27 14:23:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616247},
+                {"longitude": 19.187037}
+            ]]},
+            {"altitude": 208.344},
+            {"timestamp": "Mon May 27 14:23:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616259},
+                {"longitude": 19.186989}
+            ]]},
+            {"altitude": 208.477},
+            {"timestamp": "Mon May 27 14:23:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616271},
+                {"longitude": 19.186945}
+            ]]},
+            {"altitude": 211.603},
+            {"timestamp": "Mon May 27 14:23:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616278},
+                {"longitude": 19.186863}
+            ]]},
+            {"altitude": 211.183},
+            {"timestamp": "Mon May 27 14:23:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616279},
+                {"longitude": 19.18679}
+            ]]},
+            {"altitude": 213.781},
+            {"timestamp": "Mon May 27 14:23:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616282},
+                {"longitude": 19.186744}
+            ]]},
+            {"altitude": 213.995},
+            {"timestamp": "Mon May 27 14:23:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616285},
+                {"longitude": 19.186697}
+            ]]},
+            {"altitude": 214.771},
+            {"timestamp": "Mon May 27 14:23:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616287},
+                {"longitude": 19.186651}
+            ]]},
+            {"altitude": 216.426},
+            {"timestamp": "Mon May 27 14:24:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616294},
+                {"longitude": 19.186505}
+            ]]},
+            {"altitude": 217.16},
+            {"timestamp": "Mon May 27 14:24:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616297},
+                {"longitude": 19.186458}
+            ]]},
+            {"altitude": 216.668},
+            {"timestamp": "Mon May 27 14:24:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616312},
+                {"longitude": 19.186355}
+            ]]},
+            {"altitude": 218.252},
+            {"timestamp": "Mon May 27 14:24:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616319},
+                {"longitude": 19.186308}
+            ]]},
+            {"altitude": 216.317},
+            {"timestamp": "Mon May 27 14:24:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616332},
+                {"longitude": 19.186089}
+            ]]},
+            {"altitude": 216.858},
+            {"timestamp": "Mon May 27 14:24:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616309},
+                {"longitude": 19.185995}
+            ]]},
+            {"altitude": 217.735},
+            {"timestamp": "Mon May 27 14:24:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616305},
+                {"longitude": 19.185899}
+            ]]},
+            {"altitude": 220.357},
+            {"timestamp": "Mon May 27 14:24:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616316},
+                {"longitude": 19.185817}
+            ]]},
+            {"altitude": 221.064},
+            {"timestamp": "Mon May 27 14:24:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616318},
+                {"longitude": 19.185732}
+            ]]},
+            {"altitude": 219.708},
+            {"timestamp": "Mon May 27 14:24:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616308},
+                {"longitude": 19.185635}
+            ]]},
+            {"altitude": 220.448},
+            {"timestamp": "Mon May 27 14:24:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616303},
+                {"longitude": 19.185596}
+            ]]},
+            {"altitude": 220.116},
+            {"timestamp": "Mon May 27 14:24:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616298},
+                {"longitude": 19.185559}
+            ]]},
+            {"altitude": 219.938},
+            {"timestamp": "Mon May 27 14:24:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616312},
+                {"longitude": 19.185478}
+            ]]},
+            {"altitude": 219.836},
+            {"timestamp": "Mon May 27 14:24:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616341},
+                {"longitude": 19.185377}
+            ]]},
+            {"altitude": 219.074},
+            {"timestamp": "Mon May 27 14:24:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616346},
+                {"longitude": 19.185282}
+            ]]},
+            {"altitude": 219.252},
+            {"timestamp": "Mon May 27 14:24:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616347},
+                {"longitude": 19.185243}
+            ]]},
+            {"altitude": 219.314},
+            {"timestamp": "Mon May 27 14:24:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616349},
+                {"longitude": 19.185196}
+            ]]},
+            {"altitude": 219.871},
+            {"timestamp": "Mon May 27 14:24:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616363},
+                {"longitude": 19.185107}
+            ]]},
+            {"altitude": 219.557},
+            {"timestamp": "Mon May 27 14:24:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616377},
+                {"longitude": 19.185032}
+            ]]},
+            {"altitude": 221.706},
+            {"timestamp": "Mon May 27 14:24:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616389},
+                {"longitude": 19.184924}
+            ]]},
+            {"altitude": 221.313},
+            {"timestamp": "Mon May 27 14:24:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616392},
+                {"longitude": 19.184816}
+            ]]},
+            {"altitude": 222.559},
+            {"timestamp": "Mon May 27 14:24:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616392},
+                {"longitude": 19.184733}
+            ]]},
+            {"altitude": 222.002},
+            {"timestamp": "Mon May 27 14:24:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616408},
+                {"longitude": 19.184623}
+            ]]},
+            {"altitude": 221.001},
+            {"timestamp": "Mon May 27 14:24:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616425},
+                {"longitude": 19.184511}
+            ]]},
+            {"altitude": 220.649},
+            {"timestamp": "Mon May 27 14:24:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616432},
+                {"longitude": 19.184475}
+            ]]},
+            {"altitude": 220.417},
+            {"timestamp": "Mon May 27 14:24:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61646},
+                {"longitude": 19.184373}
+            ]]},
+            {"altitude": 220.019},
+            {"timestamp": "Mon May 27 14:24:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616472},
+                {"longitude": 19.184279}
+            ]]},
+            {"altitude": 218.396},
+            {"timestamp": "Mon May 27 14:24:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616483},
+                {"longitude": 19.18418}
+            ]]},
+            {"altitude": 220.028},
+            {"timestamp": "Mon May 27 14:24:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616471},
+                {"longitude": 19.18407}
+            ]]},
+            {"altitude": 219.39},
+            {"timestamp": "Mon May 27 14:25:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616457},
+                {"longitude": 19.183999}
+            ]]},
+            {"altitude": 217.569},
+            {"timestamp": "Mon May 27 14:25:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61645},
+                {"longitude": 19.183956}
+            ]]},
+            {"altitude": 218.313},
+            {"timestamp": "Mon May 27 14:25:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616469},
+                {"longitude": 19.183782}
+            ]]},
+            {"altitude": 217.75},
+            {"timestamp": "Mon May 27 14:25:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616503},
+                {"longitude": 19.183649}
+            ]]},
+            {"altitude": 215.852},
+            {"timestamp": "Mon May 27 14:25:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616519},
+                {"longitude": 19.18359}
+            ]]},
+            {"altitude": 214.978},
+            {"timestamp": "Mon May 27 14:25:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61653},
+                {"longitude": 19.183541}
+            ]]},
+            {"altitude": 216.282},
+            {"timestamp": "Mon May 27 14:25:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616536},
+                {"longitude": 19.183452}
+            ]]},
+            {"altitude": 217.422},
+            {"timestamp": "Mon May 27 14:25:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616536},
+                {"longitude": 19.183415}
+            ]]},
+            {"altitude": 217.789},
+            {"timestamp": "Mon May 27 14:25:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616556},
+                {"longitude": 19.183332}
+            ]]},
+            {"altitude": 218.189},
+            {"timestamp": "Mon May 27 14:25:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616566},
+                {"longitude": 19.183287}
+            ]]},
+            {"altitude": 218.575},
+            {"timestamp": "Mon May 27 14:25:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616563},
+                {"longitude": 19.183204}
+            ]]},
+            {"altitude": 218.259},
+            {"timestamp": "Mon May 27 14:25:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616578},
+                {"longitude": 19.183115}
+            ]]},
+            {"altitude": 214.394},
+            {"timestamp": "Mon May 27 14:25:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616587},
+                {"longitude": 19.183071}
+            ]]},
+            {"altitude": 216.542},
+            {"timestamp": "Mon May 27 14:25:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616596},
+                {"longitude": 19.182986}
+            ]]},
+            {"altitude": 216.147},
+            {"timestamp": "Mon May 27 14:25:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616616},
+                {"longitude": 19.182913}
+            ]]},
+            {"altitude": 213.92},
+            {"timestamp": "Mon May 27 14:25:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616638},
+                {"longitude": 19.182847}
+            ]]},
+            {"altitude": 216.818},
+            {"timestamp": "Mon May 27 14:25:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616674},
+                {"longitude": 19.182798}
+            ]]},
+            {"altitude": 216.957},
+            {"timestamp": "Mon May 27 14:25:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616686},
+                {"longitude": 19.182705}
+            ]]},
+            {"altitude": 215.75},
+            {"timestamp": "Mon May 27 14:25:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616692},
+                {"longitude": 19.182654}
+            ]]},
+            {"altitude": 215.076},
+            {"timestamp": "Mon May 27 14:25:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616697},
+                {"longitude": 19.182603}
+            ]]},
+            {"altitude": 216.603},
+            {"timestamp": "Mon May 27 14:25:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616701},
+                {"longitude": 19.182558}
+            ]]},
+            {"altitude": 217.201},
+            {"timestamp": "Mon May 27 14:25:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616706},
+                {"longitude": 19.182519}
+            ]]},
+            {"altitude": 217.611},
+            {"timestamp": "Mon May 27 14:25:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61671},
+                {"longitude": 19.182467}
+            ]]},
+            {"altitude": 217.52},
+            {"timestamp": "Mon May 27 14:25:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616713},
+                {"longitude": 19.182411}
+            ]]},
+            {"altitude": 216.027},
+            {"timestamp": "Mon May 27 14:25:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61672},
+                {"longitude": 19.182346}
+            ]]},
+            {"altitude": 215.87},
+            {"timestamp": "Mon May 27 14:26:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616724},
+                {"longitude": 19.182308}
+            ]]},
+            {"altitude": 215.842},
+            {"timestamp": "Mon May 27 14:26:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616729},
+                {"longitude": 19.18227}
+            ]]},
+            {"altitude": 216.798},
+            {"timestamp": "Mon May 27 14:26:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616753},
+                {"longitude": 19.182181}
+            ]]},
+            {"altitude": 215.911},
+            {"timestamp": "Mon May 27 14:26:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61676},
+                {"longitude": 19.182145}
+            ]]},
+            {"altitude": 215.617},
+            {"timestamp": "Mon May 27 14:26:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616766},
+                {"longitude": 19.182067}
+            ]]},
+            {"altitude": 214.423},
+            {"timestamp": "Mon May 27 14:26:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616769},
+                {"longitude": 19.182026}
+            ]]},
+            {"altitude": 213.981},
+            {"timestamp": "Mon May 27 14:26:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616782},
+                {"longitude": 19.181947}
+            ]]},
+            {"altitude": 211.632},
+            {"timestamp": "Mon May 27 14:26:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616785},
+                {"longitude": 19.181866}
+            ]]},
+            {"altitude": 212.404},
+            {"timestamp": "Mon May 27 14:26:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616783},
+                {"longitude": 19.181766}
+            ]]},
+            {"altitude": 211.329},
+            {"timestamp": "Mon May 27 14:26:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616786},
+                {"longitude": 19.181688}
+            ]]},
+            {"altitude": 212.685},
+            {"timestamp": "Mon May 27 14:26:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616788},
+                {"longitude": 19.181559}
+            ]]},
+            {"altitude": 214.259},
+            {"timestamp": "Mon May 27 14:26:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616788},
+                {"longitude": 19.181517}
+            ]]},
+            {"altitude": 214.391},
+            {"timestamp": "Mon May 27 14:26:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616806},
+                {"longitude": 19.181428}
+            ]]},
+            {"altitude": 215.127},
+            {"timestamp": "Mon May 27 14:26:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616828},
+                {"longitude": 19.181348}
+            ]]},
+            {"altitude": 216.368},
+            {"timestamp": "Mon May 27 14:26:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616838},
+                {"longitude": 19.181313}
+            ]]},
+            {"altitude": 216.927},
+            {"timestamp": "Mon May 27 14:26:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616846},
+                {"longitude": 19.181277}
+            ]]},
+            {"altitude": 215.969},
+            {"timestamp": "Mon May 27 14:26:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616854},
+                {"longitude": 19.181242}
+            ]]},
+            {"altitude": 216.394},
+            {"timestamp": "Mon May 27 14:26:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616856},
+                {"longitude": 19.181166}
+            ]]},
+            {"altitude": 216.661},
+            {"timestamp": "Mon May 27 14:26:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616858},
+                {"longitude": 19.181117}
+            ]]},
+            {"altitude": 217.962},
+            {"timestamp": "Mon May 27 14:26:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616859},
+                {"longitude": 19.181073}
+            ]]},
+            {"altitude": 218.426},
+            {"timestamp": "Mon May 27 14:26:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616864},
+                {"longitude": 19.180995}
+            ]]},
+            {"altitude": 219.234},
+            {"timestamp": "Mon May 27 14:26:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616867},
+                {"longitude": 19.180934}
+            ]]},
+            {"altitude": 221.125},
+            {"timestamp": "Mon May 27 14:26:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616885},
+                {"longitude": 19.180808}
+            ]]},
+            {"altitude": 223.754},
+            {"timestamp": "Mon May 27 14:26:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616898},
+                {"longitude": 19.180742}
+            ]]},
+            {"altitude": 226.127},
+            {"timestamp": "Mon May 27 14:26:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616906},
+                {"longitude": 19.180705}
+            ]]},
+            {"altitude": 226.5},
+            {"timestamp": "Mon May 27 14:26:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616914},
+                {"longitude": 19.180665}
+            ]]},
+            {"altitude": 226.006},
+            {"timestamp": "Mon May 27 14:26:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616924},
+                {"longitude": 19.180624}
+            ]]},
+            {"altitude": 226.906},
+            {"timestamp": "Mon May 27 14:26:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616934},
+                {"longitude": 19.180588}
+            ]]},
+            {"altitude": 227.965},
+            {"timestamp": "Mon May 27 14:26:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616946},
+                {"longitude": 19.180508}
+            ]]},
+            {"altitude": 227.71},
+            {"timestamp": "Mon May 27 14:26:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616969},
+                {"longitude": 19.180429}
+            ]]},
+            {"altitude": 229.499},
+            {"timestamp": "Mon May 27 14:26:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61699},
+                {"longitude": 19.180363}
+            ]]},
+            {"altitude": 232.954},
+            {"timestamp": "Mon May 27 14:26:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617002},
+                {"longitude": 19.180321}
+            ]]},
+            {"altitude": 233.038},
+            {"timestamp": "Mon May 27 14:26:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617015},
+                {"longitude": 19.180248}
+            ]]},
+            {"altitude": 233.36},
+            {"timestamp": "Mon May 27 14:26:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617005},
+                {"longitude": 19.180165}
+            ]]},
+            {"altitude": 231.537},
+            {"timestamp": "Mon May 27 14:27:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617015},
+                {"longitude": 19.180068}
+            ]]},
+            {"altitude": 232.472},
+            {"timestamp": "Mon May 27 14:27:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61702},
+                {"longitude": 19.180028}
+            ]]},
+            {"altitude": 232.593},
+            {"timestamp": "Mon May 27 14:27:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617024},
+                {"longitude": 19.179969}
+            ]]},
+            {"altitude": 232.051},
+            {"timestamp": "Mon May 27 14:27:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617018},
+                {"longitude": 19.179858}
+            ]]},
+            {"altitude": 231.605},
+            {"timestamp": "Mon May 27 14:27:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617019},
+                {"longitude": 19.179733}
+            ]]},
+            {"altitude": 230.175},
+            {"timestamp": "Mon May 27 14:27:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617019},
+                {"longitude": 19.179694}
+            ]]},
+            {"altitude": 230.176},
+            {"timestamp": "Mon May 27 14:27:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61702},
+                {"longitude": 19.179645}
+            ]]},
+            {"altitude": 230.677},
+            {"timestamp": "Mon May 27 14:27:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617019},
+                {"longitude": 19.179583}
+            ]]},
+            {"altitude": 229.746},
+            {"timestamp": "Mon May 27 14:27:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617021},
+                {"longitude": 19.179528}
+            ]]},
+            {"altitude": 230.338},
+            {"timestamp": "Mon May 27 14:27:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617025},
+                {"longitude": 19.179463}
+            ]]},
+            {"altitude": 229.904},
+            {"timestamp": "Mon May 27 14:27:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617029},
+                {"longitude": 19.179403}
+            ]]},
+            {"altitude": 228.261},
+            {"timestamp": "Mon May 27 14:27:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617032},
+                {"longitude": 19.179354}
+            ]]},
+            {"altitude": 227.735},
+            {"timestamp": "Mon May 27 14:27:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617026},
+                {"longitude": 19.179263}
+            ]]},
+            {"altitude": 222.868},
+            {"timestamp": "Mon May 27 14:27:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617039},
+                {"longitude": 19.17909}
+            ]]},
+            {"altitude": 223.393},
+            {"timestamp": "Mon May 27 14:27:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617062},
+                {"longitude": 19.178974}
+            ]]},
+            {"altitude": 223.119},
+            {"timestamp": "Mon May 27 14:27:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617076},
+                {"longitude": 19.178913}
+            ]]},
+            {"altitude": 224.138},
+            {"timestamp": "Mon May 27 14:27:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617091},
+                {"longitude": 19.178789}
+            ]]},
+            {"altitude": 224.74},
+            {"timestamp": "Mon May 27 14:27:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617089},
+                {"longitude": 19.178662}
+            ]]},
+            {"altitude": 223.27},
+            {"timestamp": "Mon May 27 14:27:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617081},
+                {"longitude": 19.178524}
+            ]]},
+            {"altitude": 223.539},
+            {"timestamp": "Mon May 27 14:27:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617077},
+                {"longitude": 19.178454}
+            ]]},
+            {"altitude": 222.865},
+            {"timestamp": "Mon May 27 14:27:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617076},
+                {"longitude": 19.178406}
+            ]]},
+            {"altitude": 223.303},
+            {"timestamp": "Mon May 27 14:27:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617076},
+                {"longitude": 19.178366}
+            ]]},
+            {"altitude": 223.507},
+            {"timestamp": "Mon May 27 14:27:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617077},
+                {"longitude": 19.178328}
+            ]]},
+            {"altitude": 223.434},
+            {"timestamp": "Mon May 27 14:27:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617096},
+                {"longitude": 19.178244}
+            ]]},
+            {"altitude": 224.985},
+            {"timestamp": "Mon May 27 14:27:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617103},
+                {"longitude": 19.178209}
+            ]]},
+            {"altitude": 224.669},
+            {"timestamp": "Mon May 27 14:27:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617105},
+                {"longitude": 19.178136}
+            ]]},
+            {"altitude": 223.786},
+            {"timestamp": "Mon May 27 14:27:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617106},
+                {"longitude": 19.178087}
+            ]]},
+            {"altitude": 224.1},
+            {"timestamp": "Mon May 27 14:27:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617147},
+                {"longitude": 19.177802}
+            ]]},
+            {"altitude": 225.155},
+            {"timestamp": "Mon May 27 14:27:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617151},
+                {"longitude": 19.177764}
+            ]]},
+            {"altitude": 224.044},
+            {"timestamp": "Mon May 27 14:27:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617155},
+                {"longitude": 19.177716}
+            ]]},
+            {"altitude": 223.714},
+            {"timestamp": "Mon May 27 14:27:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617182},
+                {"longitude": 19.177632}
+            ]]},
+            {"altitude": 222.268},
+            {"timestamp": "Mon May 27 14:27:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617188},
+                {"longitude": 19.177546}
+            ]]},
+            {"altitude": 222.012},
+            {"timestamp": "Mon May 27 14:28:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617208},
+                {"longitude": 19.177471}
+            ]]},
+            {"altitude": 223.811},
+            {"timestamp": "Mon May 27 14:28:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617217},
+                {"longitude": 19.177433}
+            ]]},
+            {"altitude": 223.83},
+            {"timestamp": "Mon May 27 14:28:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617035},
+                {"longitude": 19.177589}
+            ]]},
+            {"altitude": 210.943},
+            {"timestamp": "Mon May 27 14:28:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616984},
+                {"longitude": 19.177542}
+            ]]},
+            {"altitude": 214.033},
+            {"timestamp": "Mon May 27 14:28:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616945},
+                {"longitude": 19.177503}
+            ]]},
+            {"altitude": 216.337},
+            {"timestamp": "Mon May 27 14:28:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616894},
+                {"longitude": 19.177428}
+            ]]},
+            {"altitude": 217.942},
+            {"timestamp": "Mon May 27 14:28:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616871},
+                {"longitude": 19.177392}
+            ]]},
+            {"altitude": 218.151},
+            {"timestamp": "Mon May 27 14:28:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616841},
+                {"longitude": 19.177345}
+            ]]},
+            {"altitude": 218.169},
+            {"timestamp": "Mon May 27 14:28:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616813},
+                {"longitude": 19.177308}
+            ]]},
+            {"altitude": 219.349},
+            {"timestamp": "Mon May 27 14:28:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616786},
+                {"longitude": 19.177273}
+            ]]},
+            {"altitude": 218.66},
+            {"timestamp": "Mon May 27 14:28:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616744},
+                {"longitude": 19.177238}
+            ]]},
+            {"altitude": 219.381},
+            {"timestamp": "Mon May 27 14:28:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616671},
+                {"longitude": 19.177207}
+            ]]},
+            {"altitude": 218.845},
+            {"timestamp": "Mon May 27 14:28:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616601},
+                {"longitude": 19.177141}
+            ]]},
+            {"altitude": 217.096},
+            {"timestamp": "Mon May 27 14:28:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616575},
+                {"longitude": 19.177116}
+            ]]},
+            {"altitude": 216.174},
+            {"timestamp": "Mon May 27 14:28:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616499},
+                {"longitude": 19.177095}
+            ]]},
+            {"altitude": 215.861},
+            {"timestamp": "Mon May 27 14:28:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616446},
+                {"longitude": 19.17713}
+            ]]},
+            {"altitude": 215.773},
+            {"timestamp": "Mon May 27 14:28:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616378},
+                {"longitude": 19.177133}
+            ]]},
+            {"altitude": 218.273},
+            {"timestamp": "Mon May 27 14:28:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61633},
+                {"longitude": 19.177128}
+            ]]},
+            {"altitude": 218.211},
+            {"timestamp": "Mon May 27 14:28:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616283},
+                {"longitude": 19.177162}
+            ]]},
+            {"altitude": 217.44},
+            {"timestamp": "Mon May 27 14:28:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61624},
+                {"longitude": 19.177231}
+            ]]},
+            {"altitude": 219.182},
+            {"timestamp": "Mon May 27 14:28:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616179},
+                {"longitude": 19.177232}
+            ]]},
+            {"altitude": 219.686},
+            {"timestamp": "Mon May 27 14:28:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616119},
+                {"longitude": 19.177217}
+            ]]},
+            {"altitude": 219.997},
+            {"timestamp": "Mon May 27 14:28:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616074},
+                {"longitude": 19.177185}
+            ]]},
+            {"altitude": 219.671},
+            {"timestamp": "Mon May 27 14:28:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61605},
+                {"longitude": 19.177165}
+            ]]},
+            {"altitude": 219.459},
+            {"timestamp": "Mon May 27 14:28:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615997},
+                {"longitude": 19.177118}
+            ]]},
+            {"altitude": 219.992},
+            {"timestamp": "Mon May 27 14:29:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615968},
+                {"longitude": 19.177096}
+            ]]},
+            {"altitude": 220.576},
+            {"timestamp": "Mon May 27 14:29:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615921},
+                {"longitude": 19.177085}
+            ]]},
+            {"altitude": 221.786},
+            {"timestamp": "Mon May 27 14:29:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615853},
+                {"longitude": 19.177112}
+            ]]},
+            {"altitude": 217.571},
+            {"timestamp": "Mon May 27 14:29:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615795},
+                {"longitude": 19.177153}
+            ]]},
+            {"altitude": 218.844},
+            {"timestamp": "Mon May 27 14:29:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615746},
+                {"longitude": 19.177155}
+            ]]},
+            {"altitude": 218.49},
+            {"timestamp": "Mon May 27 14:29:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615706},
+                {"longitude": 19.177156}
+            ]]},
+            {"altitude": 218.607},
+            {"timestamp": "Mon May 27 14:29:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615659},
+                {"longitude": 19.177153}
+            ]]},
+            {"altitude": 219.967},
+            {"timestamp": "Mon May 27 14:29:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615612},
+                {"longitude": 19.17713}
+            ]]},
+            {"altitude": 219.3},
+            {"timestamp": "Mon May 27 14:29:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61557},
+                {"longitude": 19.177115}
+            ]]},
+            {"altitude": 219.926},
+            {"timestamp": "Mon May 27 14:29:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615532},
+                {"longitude": 19.177103}
+            ]]},
+            {"altitude": 219.885},
+            {"timestamp": "Mon May 27 14:29:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615503},
+                {"longitude": 19.177097}
+            ]]},
+            {"altitude": 218.383},
+            {"timestamp": "Mon May 27 14:29:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615443},
+                {"longitude": 19.177068}
+            ]]},
+            {"altitude": 217.469},
+            {"timestamp": "Mon May 27 14:29:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615414},
+                {"longitude": 19.177054}
+            ]]},
+            {"altitude": 218.514},
+            {"timestamp": "Mon May 27 14:29:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61538},
+                {"longitude": 19.177039}
+            ]]},
+            {"altitude": 217.552},
+            {"timestamp": "Mon May 27 14:29:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615352},
+                {"longitude": 19.177031}
+            ]]},
+            {"altitude": 218.862},
+            {"timestamp": "Mon May 27 14:29:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615328},
+                {"longitude": 19.177022}
+            ]]},
+            {"altitude": 217.898},
+            {"timestamp": "Mon May 27 14:29:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615279},
+                {"longitude": 19.177008}
+            ]]},
+            {"altitude": 216.803},
+            {"timestamp": "Mon May 27 14:29:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61525},
+                {"longitude": 19.176997}
+            ]]},
+            {"altitude": 216.317},
+            {"timestamp": "Mon May 27 14:29:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61522},
+                {"longitude": 19.176987}
+            ]]},
+            {"altitude": 216.724},
+            {"timestamp": "Mon May 27 14:29:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615134},
+                {"longitude": 19.176977}
+            ]]},
+            {"altitude": 215.45},
+            {"timestamp": "Mon May 27 14:29:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615109},
+                {"longitude": 19.176973}
+            ]]},
+            {"altitude": 216.325},
+            {"timestamp": "Mon May 27 14:29:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615066},
+                {"longitude": 19.176961}
+            ]]},
+            {"altitude": 215.698},
+            {"timestamp": "Mon May 27 14:29:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615002},
+                {"longitude": 19.176965}
+            ]]},
+            {"altitude": 215.661},
+            {"timestamp": "Mon May 27 14:29:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614953},
+                {"longitude": 19.176955}
+            ]]},
+            {"altitude": 214.051},
+            {"timestamp": "Mon May 27 14:29:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614928},
+                {"longitude": 19.176951}
+            ]]},
+            {"altitude": 214.04},
+            {"timestamp": "Mon May 27 14:29:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614872},
+                {"longitude": 19.176933}
+            ]]},
+            {"altitude": 211.757},
+            {"timestamp": "Mon May 27 14:29:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614815},
+                {"longitude": 19.176943}
+            ]]},
+            {"altitude": 211.83},
+            {"timestamp": "Mon May 27 14:29:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614766},
+                {"longitude": 19.176934}
+            ]]},
+            {"altitude": 209.298},
+            {"timestamp": "Mon May 27 14:29:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61472},
+                {"longitude": 19.176941}
+            ]]},
+            {"altitude": 210.893},
+            {"timestamp": "Mon May 27 14:29:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61466},
+                {"longitude": 19.176944}
+            ]]},
+            {"altitude": 209.934},
+            {"timestamp": "Mon May 27 14:29:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614612},
+                {"longitude": 19.176936}
+            ]]},
+            {"altitude": 209.825},
+            {"timestamp": "Mon May 27 14:30:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614532},
+                {"longitude": 19.176892}
+            ]]},
+            {"altitude": 206.944},
+            {"timestamp": "Mon May 27 14:30:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614475},
+                {"longitude": 19.176849}
+            ]]},
+            {"altitude": 208.027},
+            {"timestamp": "Mon May 27 14:30:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614447},
+                {"longitude": 19.17683}
+            ]]},
+            {"altitude": 209.694},
+            {"timestamp": "Mon May 27 14:30:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614417},
+                {"longitude": 19.176812}
+            ]]},
+            {"altitude": 209.411},
+            {"timestamp": "Mon May 27 14:30:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614384},
+                {"longitude": 19.176794}
+            ]]},
+            {"altitude": 208.859},
+            {"timestamp": "Mon May 27 14:30:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614354},
+                {"longitude": 19.176775}
+            ]]},
+            {"altitude": 206.927},
+            {"timestamp": "Mon May 27 14:30:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61433},
+                {"longitude": 19.17676}
+            ]]},
+            {"altitude": 207.239},
+            {"timestamp": "Mon May 27 14:30:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614301},
+                {"longitude": 19.17674}
+            ]]},
+            {"altitude": 206.216},
+            {"timestamp": "Mon May 27 14:30:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614247},
+                {"longitude": 19.176732}
+            ]]},
+            {"altitude": 204.949},
+            {"timestamp": "Mon May 27 14:30:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614197},
+                {"longitude": 19.176733}
+            ]]},
+            {"altitude": 205.316},
+            {"timestamp": "Mon May 27 14:30:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614132},
+                {"longitude": 19.176706}
+            ]]},
+            {"altitude": 205.286},
+            {"timestamp": "Mon May 27 14:30:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614037},
+                {"longitude": 19.176627}
+            ]]},
+            {"altitude": 202.922},
+            {"timestamp": "Mon May 27 14:30:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614007},
+                {"longitude": 19.176607}
+            ]]},
+            {"altitude": 203.158},
+            {"timestamp": "Mon May 27 14:30:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61395},
+                {"longitude": 19.176586}
+            ]]},
+            {"altitude": 202.613},
+            {"timestamp": "Mon May 27 14:30:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613868},
+                {"longitude": 19.17658}
+            ]]},
+            {"altitude": 202.941},
+            {"timestamp": "Mon May 27 14:30:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613804},
+                {"longitude": 19.176577}
+            ]]},
+            {"altitude": 201.095},
+            {"timestamp": "Mon May 27 14:30:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613756},
+                {"longitude": 19.176564}
+            ]]},
+            {"altitude": 200.878},
+            {"timestamp": "Mon May 27 14:30:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613693},
+                {"longitude": 19.176525}
+            ]]},
+            {"altitude": 200.761},
+            {"timestamp": "Mon May 27 14:30:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613637},
+                {"longitude": 19.176514}
+            ]]},
+            {"altitude": 201.926},
+            {"timestamp": "Mon May 27 14:30:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613585},
+                {"longitude": 19.176532}
+            ]]},
+            {"altitude": 201.808},
+            {"timestamp": "Mon May 27 14:30:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613554},
+                {"longitude": 19.176542}
+            ]]},
+            {"altitude": 203.459},
+            {"timestamp": "Mon May 27 14:30:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613484},
+                {"longitude": 19.176542}
+            ]]},
+            {"altitude": 205.724},
+            {"timestamp": "Mon May 27 14:30:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613431},
+                {"longitude": 19.176523}
+            ]]},
+            {"altitude": 205.344},
+            {"timestamp": "Mon May 27 14:30:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613379},
+                {"longitude": 19.176538}
+            ]]},
+            {"altitude": 203.906},
+            {"timestamp": "Mon May 27 14:30:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613352},
+                {"longitude": 19.176625}
+            ]]},
+            {"altitude": 203.87},
+            {"timestamp": "Mon May 27 14:30:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613357},
+                {"longitude": 19.176697}
+            ]]},
+            {"altitude": 205.619},
+            {"timestamp": "Mon May 27 14:30:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613355},
+                {"longitude": 19.176771}
+            ]]},
+            {"altitude": 206.621},
+            {"timestamp": "Mon May 27 14:30:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613354},
+                {"longitude": 19.176836}
+            ]]},
+            {"altitude": 207.098},
+            {"timestamp": "Mon May 27 14:30:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61335},
+                {"longitude": 19.176908}
+            ]]},
+            {"altitude": 207.617},
+            {"timestamp": "Mon May 27 14:31:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613365},
+                {"longitude": 19.176992}
+            ]]},
+            {"altitude": 209.046},
+            {"timestamp": "Mon May 27 14:31:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613363},
+                {"longitude": 19.177083}
+            ]]},
+            {"altitude": 208.252},
+            {"timestamp": "Mon May 27 14:31:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613369},
+                {"longitude": 19.177163}
+            ]]},
+            {"altitude": 208.941},
+            {"timestamp": "Mon May 27 14:31:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61337},
+                {"longitude": 19.177251}
+            ]]},
+            {"altitude": 208.272},
+            {"timestamp": "Mon May 27 14:31:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613375},
+                {"longitude": 19.177359}
+            ]]},
+            {"altitude": 211.977},
+            {"timestamp": "Mon May 27 14:31:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613378},
+                {"longitude": 19.177425}
+            ]]},
+            {"altitude": 210.506},
+            {"timestamp": "Mon May 27 14:31:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613399},
+                {"longitude": 19.177498}
+            ]]},
+            {"altitude": 210.086},
+            {"timestamp": "Mon May 27 14:31:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613411},
+                {"longitude": 19.17758}
+            ]]},
+            {"altitude": 209.962},
+            {"timestamp": "Mon May 27 14:31:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61341},
+                {"longitude": 19.17766}
+            ]]},
+            {"altitude": 210.139},
+            {"timestamp": "Mon May 27 14:31:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613393},
+                {"longitude": 19.177738}
+            ]]},
+            {"altitude": 210.188},
+            {"timestamp": "Mon May 27 14:31:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613383},
+                {"longitude": 19.17781}
+            ]]},
+            {"altitude": 211.765},
+            {"timestamp": "Mon May 27 14:31:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613377},
+                {"longitude": 19.177856}
+            ]]},
+            {"altitude": 213.024},
+            {"timestamp": "Mon May 27 14:31:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613388},
+                {"longitude": 19.177961}
+            ]]},
+            {"altitude": 213.948},
+            {"timestamp": "Mon May 27 14:31:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613388},
+                {"longitude": 19.178039}
+            ]]},
+            {"altitude": 215.504},
+            {"timestamp": "Mon May 27 14:31:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613391},
+                {"longitude": 19.178112}
+            ]]},
+            {"altitude": 215.168},
+            {"timestamp": "Mon May 27 14:31:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613383},
+                {"longitude": 19.17819}
+            ]]},
+            {"altitude": 213.406},
+            {"timestamp": "Mon May 27 14:31:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613379},
+                {"longitude": 19.178233}
+            ]]},
+            {"altitude": 212.964},
+            {"timestamp": "Mon May 27 14:31:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613369},
+                {"longitude": 19.178302}
+            ]]},
+            {"altitude": 210.862},
+            {"timestamp": "Mon May 27 14:31:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613362},
+                {"longitude": 19.178339}
+            ]]},
+            {"altitude": 211.8},
+            {"timestamp": "Mon May 27 14:31:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613354},
+                {"longitude": 19.178376}
+            ]]},
+            {"altitude": 210.634},
+            {"timestamp": "Mon May 27 14:31:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613331},
+                {"longitude": 19.178494}
+            ]]},
+            {"altitude": 210.082},
+            {"timestamp": "Mon May 27 14:31:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613319},
+                {"longitude": 19.17854}
+            ]]},
+            {"altitude": 210.084},
+            {"timestamp": "Mon May 27 14:31:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613298},
+                {"longitude": 19.178632}
+            ]]},
+            {"altitude": 212.401},
+            {"timestamp": "Mon May 27 14:31:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613274},
+                {"longitude": 19.178712}
+            ]]},
+            {"altitude": 214.727},
+            {"timestamp": "Mon May 27 14:31:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613265},
+                {"longitude": 19.178746}
+            ]]},
+            {"altitude": 214.502},
+            {"timestamp": "Mon May 27 14:31:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613245},
+                {"longitude": 19.178851}
+            ]]},
+            {"altitude": 217.962},
+            {"timestamp": "Mon May 27 14:31:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613251},
+                {"longitude": 19.178966}
+            ]]},
+            {"altitude": 217.031},
+            {"timestamp": "Mon May 27 14:32:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613254},
+                {"longitude": 19.179006}
+            ]]},
+            {"altitude": 217.64},
+            {"timestamp": "Mon May 27 14:32:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613245},
+                {"longitude": 19.179117}
+            ]]},
+            {"altitude": 219.955},
+            {"timestamp": "Mon May 27 14:32:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613241},
+                {"longitude": 19.179154}
+            ]]},
+            {"altitude": 220.714},
+            {"timestamp": "Mon May 27 14:32:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613226},
+                {"longitude": 19.179233}
+            ]]},
+            {"altitude": 223.302},
+            {"timestamp": "Mon May 27 14:32:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613217},
+                {"longitude": 19.179269}
+            ]]},
+            {"altitude": 224.648},
+            {"timestamp": "Mon May 27 14:32:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613199},
+                {"longitude": 19.179377}
+            ]]},
+            {"altitude": 225.442},
+            {"timestamp": "Mon May 27 14:32:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613184},
+                {"longitude": 19.179448}
+            ]]},
+            {"altitude": 224.78},
+            {"timestamp": "Mon May 27 14:32:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61318},
+                {"longitude": 19.179547}
+            ]]},
+            {"altitude": 220.21},
+            {"timestamp": "Mon May 27 14:32:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613177},
+                {"longitude": 19.179591}
+            ]]},
+            {"altitude": 220.399},
+            {"timestamp": "Mon May 27 14:32:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613173},
+                {"longitude": 19.179637}
+            ]]},
+            {"altitude": 220.161},
+            {"timestamp": "Mon May 27 14:32:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613167},
+                {"longitude": 19.17968}
+            ]]},
+            {"altitude": 220.832},
+            {"timestamp": "Mon May 27 14:32:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613159},
+                {"longitude": 19.179729}
+            ]]},
+            {"altitude": 221.363},
+            {"timestamp": "Mon May 27 14:32:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613154},
+                {"longitude": 19.179765}
+            ]]},
+            {"altitude": 220.81},
+            {"timestamp": "Mon May 27 14:32:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613141},
+                {"longitude": 19.179826}
+            ]]},
+            {"altitude": 219.669},
+            {"timestamp": "Mon May 27 14:32:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613133},
+                {"longitude": 19.17986}
+            ]]},
+            {"altitude": 221.25},
+            {"timestamp": "Mon May 27 14:32:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613128},
+                {"longitude": 19.179937}
+            ]]},
+            {"altitude": 222.138},
+            {"timestamp": "Mon May 27 14:32:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613128},
+                {"longitude": 19.179998}
+            ]]},
+            {"altitude": 222.3},
+            {"timestamp": "Mon May 27 14:32:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613128},
+                {"longitude": 19.180075}
+            ]]},
+            {"altitude": 223.561},
+            {"timestamp": "Mon May 27 14:32:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613108},
+                {"longitude": 19.18018}
+            ]]},
+            {"altitude": 221.155},
+            {"timestamp": "Mon May 27 14:32:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613084},
+                {"longitude": 19.180257}
+            ]]},
+            {"altitude": 222.862},
+            {"timestamp": "Mon May 27 14:32:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613066},
+                {"longitude": 19.180363}
+            ]]},
+            {"altitude": 222.561},
+            {"timestamp": "Mon May 27 14:32:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61306},
+                {"longitude": 19.180463}
+            ]]},
+            {"altitude": 223.972},
+            {"timestamp": "Mon May 27 14:32:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613059},
+                {"longitude": 19.180559}
+            ]]},
+            {"altitude": 225.014},
+            {"timestamp": "Mon May 27 14:32:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613058},
+                {"longitude": 19.180599}
+            ]]},
+            {"altitude": 225.841},
+            {"timestamp": "Mon May 27 14:32:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613058},
+                {"longitude": 19.180636}
+            ]]},
+            {"altitude": 225.91},
+            {"timestamp": "Mon May 27 14:32:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61304},
+                {"longitude": 19.180739}
+            ]]},
+            {"altitude": 224.143},
+            {"timestamp": "Mon May 27 14:32:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613044},
+                {"longitude": 19.180837}
+            ]]},
+            {"altitude": 224.863},
+            {"timestamp": "Mon May 27 14:32:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613039},
+                {"longitude": 19.180941}
+            ]]},
+            {"altitude": 226.512},
+            {"timestamp": "Mon May 27 14:32:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613038},
+                {"longitude": 19.181005}
+            ]]},
+            {"altitude": 227.648},
+            {"timestamp": "Mon May 27 14:33:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613045},
+                {"longitude": 19.181078}
+            ]]},
+            {"altitude": 227.032},
+            {"timestamp": "Mon May 27 14:33:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613039},
+                {"longitude": 19.181152}
+            ]]},
+            {"altitude": 227.141},
+            {"timestamp": "Mon May 27 14:33:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613044},
+                {"longitude": 19.181242}
+            ]]},
+            {"altitude": 222.221},
+            {"timestamp": "Mon May 27 14:33:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613051},
+                {"longitude": 19.181309}
+            ]]},
+            {"altitude": 223.23},
+            {"timestamp": "Mon May 27 14:33:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613046},
+                {"longitude": 19.181419}
+            ]]},
+            {"altitude": 223.419},
+            {"timestamp": "Mon May 27 14:33:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613045},
+                {"longitude": 19.181474}
+            ]]},
+            {"altitude": 223.024},
+            {"timestamp": "Mon May 27 14:33:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613031},
+                {"longitude": 19.181645}
+            ]]},
+            {"altitude": 223.844},
+            {"timestamp": "Mon May 27 14:33:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613027},
+                {"longitude": 19.181713}
+            ]]},
+            {"altitude": 224.954},
+            {"timestamp": "Mon May 27 14:33:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613019},
+                {"longitude": 19.181787}
+            ]]},
+            {"altitude": 224.491},
+            {"timestamp": "Mon May 27 14:33:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613008},
+                {"longitude": 19.181863}
+            ]]},
+            {"altitude": 224.408},
+            {"timestamp": "Mon May 27 14:33:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.612991},
+                {"longitude": 19.181972}
+            ]]},
+            {"altitude": 225.108},
+            {"timestamp": "Mon May 27 14:33:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.612988},
+                {"longitude": 19.182069}
+            ]]},
+            {"altitude": 226.124},
+            {"timestamp": "Mon May 27 14:33:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.612992},
+                {"longitude": 19.18218}
+            ]]},
+            {"altitude": 227.274},
+            {"timestamp": "Mon May 27 14:33:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613012},
+                {"longitude": 19.18225}
+            ]]},
+            {"altitude": 229.228},
+            {"timestamp": "Mon May 27 14:33:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613058},
+                {"longitude": 19.182273}
+            ]]},
+            {"altitude": 230.663},
+            {"timestamp": "Mon May 27 14:33:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613158},
+                {"longitude": 19.182298}
+            ]]},
+            {"altitude": 229.302},
+            {"timestamp": "Mon May 27 14:33:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613193},
+                {"longitude": 19.182305}
+            ]]},
+            {"altitude": 230.347},
+            {"timestamp": "Mon May 27 14:33:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613269},
+                {"longitude": 19.182305}
+            ]]},
+            {"altitude": 229.393},
+            {"timestamp": "Mon May 27 14:33:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613333},
+                {"longitude": 19.182324}
+            ]]},
+            {"altitude": 228.335},
+            {"timestamp": "Mon May 27 14:33:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.6134},
+                {"longitude": 19.182333}
+            ]]},
+            {"altitude": 227.829},
+            {"timestamp": "Mon May 27 14:33:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61345},
+                {"longitude": 19.182357}
+            ]]},
+            {"altitude": 228.369},
+            {"timestamp": "Mon May 27 14:33:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613486},
+                {"longitude": 19.182411}
+            ]]},
+            {"altitude": 229.225},
+            {"timestamp": "Mon May 27 14:33:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613507},
+                {"longitude": 19.182505}
+            ]]},
+            {"altitude": 229.15},
+            {"timestamp": "Mon May 27 14:33:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613521},
+                {"longitude": 19.182592}
+            ]]},
+            {"altitude": 232.184},
+            {"timestamp": "Mon May 27 14:33:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613525},
+                {"longitude": 19.182697}
+            ]]},
+            {"altitude": 220.514},
+            {"timestamp": "Mon May 27 14:33:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613524},
+                {"longitude": 19.182748}
+            ]]},
+            {"altitude": 222.998},
+            {"timestamp": "Mon May 27 14:33:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613515},
+                {"longitude": 19.182872}
+            ]]},
+            {"altitude": 226.246},
+            {"timestamp": "Mon May 27 14:33:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613504},
+                {"longitude": 19.182961}
+            ]]},
+            {"altitude": 227.584},
+            {"timestamp": "Mon May 27 14:33:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.6135},
+                {"longitude": 19.182996}
+            ]]},
+            {"altitude": 227.502},
+            {"timestamp": "Mon May 27 14:33:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613503},
+                {"longitude": 19.183069}
+            ]]},
+            {"altitude": 228.065},
+            {"timestamp": "Mon May 27 14:33:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613512},
+                {"longitude": 19.183143}
+            ]]},
+            {"altitude": 229.4},
+            {"timestamp": "Mon May 27 14:34:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613512},
+                {"longitude": 19.183231}
+            ]]},
+            {"altitude": 229.73},
+            {"timestamp": "Mon May 27 14:34:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61349},
+                {"longitude": 19.183386}
+            ]]},
+            {"altitude": 228.773},
+            {"timestamp": "Mon May 27 14:34:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613483},
+                {"longitude": 19.183429}
+            ]]},
+            {"altitude": 228.862},
+            {"timestamp": "Mon May 27 14:34:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613477},
+                {"longitude": 19.183471}
+            ]]},
+            {"altitude": 228.441},
+            {"timestamp": "Mon May 27 14:34:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613472},
+                {"longitude": 19.183511}
+            ]]},
+            {"altitude": 227.893},
+            {"timestamp": "Mon May 27 14:34:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613468},
+                {"longitude": 19.183555}
+            ]]},
+            {"altitude": 228.29},
+            {"timestamp": "Mon May 27 14:34:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613465},
+                {"longitude": 19.183595}
+            ]]},
+            {"altitude": 226.834},
+            {"timestamp": "Mon May 27 14:34:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61347},
+                {"longitude": 19.183697}
+            ]]},
+            {"altitude": 228.817},
+            {"timestamp": "Mon May 27 14:34:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613476},
+                {"longitude": 19.18376}
+            ]]},
+            {"altitude": 228.888},
+            {"timestamp": "Mon May 27 14:34:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613482},
+                {"longitude": 19.183823}
+            ]]},
+            {"altitude": 230.131},
+            {"timestamp": "Mon May 27 14:34:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613496},
+                {"longitude": 19.183915}
+            ]]},
+            {"altitude": 228.486},
+            {"timestamp": "Mon May 27 14:34:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613494},
+                {"longitude": 19.183996}
+            ]]},
+            {"altitude": 228.299},
+            {"timestamp": "Mon May 27 14:34:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613492},
+                {"longitude": 19.184039}
+            ]]},
+            {"altitude": 229.392},
+            {"timestamp": "Mon May 27 14:34:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61349},
+                {"longitude": 19.184127}
+            ]]},
+            {"altitude": 230.583},
+            {"timestamp": "Mon May 27 14:34:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613491},
+                {"longitude": 19.184168}
+            ]]},
+            {"altitude": 230.354},
+            {"timestamp": "Mon May 27 14:34:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613493},
+                {"longitude": 19.184231}
+            ]]},
+            {"altitude": 231.094},
+            {"timestamp": "Mon May 27 14:34:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613486},
+                {"longitude": 19.184316}
+            ]]},
+            {"altitude": 230.667},
+            {"timestamp": "Mon May 27 14:34:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613489},
+                {"longitude": 19.184424}
+            ]]},
+            {"altitude": 229.676},
+            {"timestamp": "Mon May 27 14:34:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613492},
+                {"longitude": 19.184481}
+            ]]},
+            {"altitude": 229.156},
+            {"timestamp": "Mon May 27 14:34:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613494},
+                {"longitude": 19.184542}
+            ]]},
+            {"altitude": 229.293},
+            {"timestamp": "Mon May 27 14:34:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613498},
+                {"longitude": 19.184737}
+            ]]},
+            {"altitude": 229.956},
+            {"timestamp": "Mon May 27 14:34:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61349},
+                {"longitude": 19.184808}
+            ]]},
+            {"altitude": 230.36},
+            {"timestamp": "Mon May 27 14:34:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613485},
+                {"longitude": 19.184877}
+            ]]},
+            {"altitude": 231.57},
+            {"timestamp": "Mon May 27 14:34:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613482},
+                {"longitude": 19.184943}
+            ]]},
+            {"altitude": 232.42},
+            {"timestamp": "Mon May 27 14:34:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61348},
+                {"longitude": 19.185011}
+            ]]},
+            {"altitude": 233.463},
+            {"timestamp": "Mon May 27 14:34:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613478},
+                {"longitude": 19.185076}
+            ]]},
+            {"altitude": 233.603},
+            {"timestamp": "Mon May 27 14:34:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613472},
+                {"longitude": 19.185146}
+            ]]},
+            {"altitude": 234.108},
+            {"timestamp": "Mon May 27 14:34:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613463},
+                {"longitude": 19.18522}
+            ]]},
+            {"altitude": 233.833},
+            {"timestamp": "Mon May 27 14:34:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613452},
+                {"longitude": 19.185289}
+            ]]},
+            {"altitude": 234.379},
+            {"timestamp": "Mon May 27 14:34:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613432},
+                {"longitude": 19.185414}
+            ]]},
+            {"altitude": 232.498},
+            {"timestamp": "Mon May 27 14:34:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613419},
+                {"longitude": 19.185537}
+            ]]},
+            {"altitude": 232.746},
+            {"timestamp": "Mon May 27 14:34:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613415},
+                {"longitude": 19.185601}
+            ]]},
+            {"altitude": 233.636},
+            {"timestamp": "Mon May 27 14:34:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613428},
+                {"longitude": 19.185683}
+            ]]},
+            {"altitude": 232.001},
+            {"timestamp": "Mon May 27 14:34:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613438},
+                {"longitude": 19.185745}
+            ]]},
+            {"altitude": 232.31},
+            {"timestamp": "Mon May 27 14:34:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613445},
+                {"longitude": 19.185784}
+            ]]},
+            {"altitude": 231.7},
+            {"timestamp": "Mon May 27 14:34:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613439},
+                {"longitude": 19.185879}
+            ]]},
+            {"altitude": 230.584},
+            {"timestamp": "Mon May 27 14:35:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613418},
+                {"longitude": 19.185948}
+            ]]},
+            {"altitude": 230.769},
+            {"timestamp": "Mon May 27 14:35:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.6134},
+                {"longitude": 19.186032}
+            ]]},
+            {"altitude": 229.014},
+            {"timestamp": "Mon May 27 14:35:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613391},
+                {"longitude": 19.186071}
+            ]]},
+            {"altitude": 229.199},
+            {"timestamp": "Mon May 27 14:35:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613382},
+                {"longitude": 19.186105}
+            ]]},
+            {"altitude": 228.752},
+            {"timestamp": "Mon May 27 14:35:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613368},
+                {"longitude": 19.186181}
+            ]]},
+            {"altitude": 229.156},
+            {"timestamp": "Mon May 27 14:35:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613361},
+                {"longitude": 19.186218}
+            ]]},
+            {"altitude": 228.371},
+            {"timestamp": "Mon May 27 14:35:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613352},
+                {"longitude": 19.18626}
+            ]]},
+            {"altitude": 229.437},
+            {"timestamp": "Mon May 27 14:35:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613345},
+                {"longitude": 19.186333}
+            ]]},
+            {"altitude": 228.221},
+            {"timestamp": "Mon May 27 14:35:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613343},
+                {"longitude": 19.186372}
+            ]]},
+            {"altitude": 227.945},
+            {"timestamp": "Mon May 27 14:35:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613339},
+                {"longitude": 19.186409}
+            ]]},
+            {"altitude": 228.239},
+            {"timestamp": "Mon May 27 14:35:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613328},
+                {"longitude": 19.186486}
+            ]]},
+            {"altitude": 230.628},
+            {"timestamp": "Mon May 27 14:35:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61334},
+                {"longitude": 19.18658}
+            ]]},
+            {"altitude": 229.927},
+            {"timestamp": "Mon May 27 14:35:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613348},
+                {"longitude": 19.186653}
+            ]]},
+            {"altitude": 228.398},
+            {"timestamp": "Mon May 27 14:35:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613338},
+                {"longitude": 19.18674}
+            ]]},
+            {"altitude": 229.792},
+            {"timestamp": "Mon May 27 14:35:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613333},
+                {"longitude": 19.186785}
+            ]]},
+            {"altitude": 231.698},
+            {"timestamp": "Mon May 27 14:35:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613342},
+                {"longitude": 19.186882}
+            ]]},
+            {"altitude": 231.936},
+            {"timestamp": "Mon May 27 14:35:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613357},
+                {"longitude": 19.186985}
+            ]]},
+            {"altitude": 233.571},
+            {"timestamp": "Mon May 27 14:35:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613347},
+                {"longitude": 19.187062}
+            ]]},
+            {"altitude": 234.113},
+            {"timestamp": "Mon May 27 14:35:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613343},
+                {"longitude": 19.187103}
+            ]]},
+            {"altitude": 233.589},
+            {"timestamp": "Mon May 27 14:35:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613337},
+                {"longitude": 19.187141}
+            ]]},
+            {"altitude": 232.265},
+            {"timestamp": "Mon May 27 14:35:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613332},
+                {"longitude": 19.187239}
+            ]]},
+            {"altitude": 229.452},
+            {"timestamp": "Mon May 27 14:35:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613337},
+                {"longitude": 19.187368}
+            ]]},
+            {"altitude": 227.758},
+            {"timestamp": "Mon May 27 14:35:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613327},
+                {"longitude": 19.187473}
+            ]]},
+            {"altitude": 231.433},
+            {"timestamp": "Mon May 27 14:35:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613324},
+                {"longitude": 19.187513}
+            ]]},
+            {"altitude": 232.09},
+            {"timestamp": "Mon May 27 14:35:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613313},
+                {"longitude": 19.187609}
+            ]]},
+            {"altitude": 229.719},
+            {"timestamp": "Mon May 27 14:35:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61331},
+                {"longitude": 19.187681}
+            ]]},
+            {"altitude": 230.698},
+            {"timestamp": "Mon May 27 14:35:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613298},
+                {"longitude": 19.187766}
+            ]]},
+            {"altitude": 229.489},
+            {"timestamp": "Mon May 27 14:35:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613293},
+                {"longitude": 19.187816}
+            ]]},
+            {"altitude": 228.218},
+            {"timestamp": "Mon May 27 14:35:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613299},
+                {"longitude": 19.187941}
+            ]]},
+            {"altitude": 227.908},
+            {"timestamp": "Mon May 27 14:35:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613295},
+                {"longitude": 19.188074}
+            ]]},
+            {"altitude": 229.17},
+            {"timestamp": "Mon May 27 14:35:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613281},
+                {"longitude": 19.188192}
+            ]]},
+            {"altitude": 229.422},
+            {"timestamp": "Mon May 27 14:36:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613266},
+                {"longitude": 19.188338}
+            ]]},
+            {"altitude": 229.139},
+            {"timestamp": "Mon May 27 14:36:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613211},
+                {"longitude": 19.188573}
+            ]]},
+            {"altitude": 227.965},
+            {"timestamp": "Mon May 27 14:36:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61322},
+                {"longitude": 19.188699}
+            ]]},
+            {"altitude": 227.962},
+            {"timestamp": "Mon May 27 14:36:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613214},
+                {"longitude": 19.188782}
+            ]]},
+            {"altitude": 227.629},
+            {"timestamp": "Mon May 27 14:36:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613224},
+                {"longitude": 19.188906}
+            ]]},
+            {"altitude": 226.568},
+            {"timestamp": "Mon May 27 14:36:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613227},
+                {"longitude": 19.189035}
+            ]]},
+            {"altitude": 226.645},
+            {"timestamp": "Mon May 27 14:36:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613241},
+                {"longitude": 19.189248}
+            ]]},
+            {"altitude": 226.605},
+            {"timestamp": "Mon May 27 14:36:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613259},
+                {"longitude": 19.189326}
+            ]]},
+            {"altitude": 226.818},
+            {"timestamp": "Mon May 27 14:36:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613267},
+                {"longitude": 19.189373}
+            ]]},
+            {"altitude": 226.978},
+            {"timestamp": "Mon May 27 14:36:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613282},
+                {"longitude": 19.189472}
+            ]]},
+            {"altitude": 226.068},
+            {"timestamp": "Mon May 27 14:36:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61329},
+                {"longitude": 19.189544}
+            ]]},
+            {"altitude": 226.835},
+            {"timestamp": "Mon May 27 14:36:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613296},
+                {"longitude": 19.189583}
+            ]]},
+            {"altitude": 226.405},
+            {"timestamp": "Mon May 27 14:36:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613346},
+                {"longitude": 19.189688}
+            ]]},
+            {"altitude": 227.027},
+            {"timestamp": "Mon May 27 14:36:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613372},
+                {"longitude": 19.18974}
+            ]]},
+            {"altitude": 229.369},
+            {"timestamp": "Mon May 27 14:36:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613396},
+                {"longitude": 19.189794}
+            ]]},
+            {"altitude": 229.039},
+            {"timestamp": "Mon May 27 14:36:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613412},
+                {"longitude": 19.189827}
+            ]]},
+            {"altitude": 228.492},
+            {"timestamp": "Mon May 27 14:36:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613427},
+                {"longitude": 19.189862}
+            ]]},
+            {"altitude": 227.474},
+            {"timestamp": "Mon May 27 14:36:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613452},
+                {"longitude": 19.18994}
+            ]]},
+            {"altitude": 229.798},
+            {"timestamp": "Mon May 27 14:36:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613481},
+                {"longitude": 19.190004}
+            ]]},
+            {"altitude": 228.567},
+            {"timestamp": "Mon May 27 14:36:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613515},
+                {"longitude": 19.190059}
+            ]]},
+            {"altitude": 221.986},
+            {"timestamp": "Mon May 27 14:36:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613537},
+                {"longitude": 19.190093}
+            ]]},
+            {"altitude": 217.212},
+            {"timestamp": "Mon May 27 14:36:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613567},
+                {"longitude": 19.190139}
+            ]]},
+            {"altitude": 217.036},
+            {"timestamp": "Mon May 27 14:36:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613597},
+                {"longitude": 19.190221}
+            ]]},
+            {"altitude": 214.109},
+            {"timestamp": "Mon May 27 14:36:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613624},
+                {"longitude": 19.190311}
+            ]]},
+            {"altitude": 215.963},
+            {"timestamp": "Mon May 27 14:36:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613634},
+                {"longitude": 19.190399}
+            ]]},
+            {"altitude": 218.785},
+            {"timestamp": "Mon May 27 14:36:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613637},
+                {"longitude": 19.190452}
+            ]]},
+            {"altitude": 220.226},
+            {"timestamp": "Mon May 27 14:36:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613642},
+                {"longitude": 19.190501}
+            ]]},
+            {"altitude": 220.775},
+            {"timestamp": "Mon May 27 14:36:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61366},
+                {"longitude": 19.190579}
+            ]]},
+            {"altitude": 219.47},
+            {"timestamp": "Mon May 27 14:37:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613695},
+                {"longitude": 19.190664}
+            ]]},
+            {"altitude": 218.18},
+            {"timestamp": "Mon May 27 14:37:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613708},
+                {"longitude": 19.190748}
+            ]]},
+            {"altitude": 216.74},
+            {"timestamp": "Mon May 27 14:37:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613682},
+                {"longitude": 19.190829}
+            ]]},
+            {"altitude": 216.524},
+            {"timestamp": "Mon May 27 14:37:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613694},
+                {"longitude": 19.190904}
+            ]]},
+            {"altitude": 216.242},
+            {"timestamp": "Mon May 27 14:37:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613706},
+                {"longitude": 19.191015}
+            ]]},
+            {"altitude": 216.96},
+            {"timestamp": "Mon May 27 14:37:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613716},
+                {"longitude": 19.191084}
+            ]]},
+            {"altitude": 217.154},
+            {"timestamp": "Mon May 27 14:37:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613738},
+                {"longitude": 19.191148}
+            ]]},
+            {"altitude": 214.112},
+            {"timestamp": "Mon May 27 14:37:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613799},
+                {"longitude": 19.19125}
+            ]]},
+            {"altitude": 212.387},
+            {"timestamp": "Mon May 27 14:37:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613847},
+                {"longitude": 19.191371}
+            ]]},
+            {"altitude": 213.317},
+            {"timestamp": "Mon May 27 14:37:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613867},
+                {"longitude": 19.191434}
+            ]]},
+            {"altitude": 214.16},
+            {"timestamp": "Mon May 27 14:37:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613887},
+                {"longitude": 19.191499}
+            ]]},
+            {"altitude": 214.08},
+            {"timestamp": "Mon May 27 14:37:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613931},
+                {"longitude": 19.191618}
+            ]]},
+            {"altitude": 213.761},
+            {"timestamp": "Mon May 27 14:37:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.613979},
+                {"longitude": 19.19172}
+            ]]},
+            {"altitude": 213.745},
+            {"timestamp": "Mon May 27 14:37:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614001},
+                {"longitude": 19.191771}
+            ]]},
+            {"altitude": 212.656},
+            {"timestamp": "Mon May 27 14:37:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61404},
+                {"longitude": 19.19189}
+            ]]},
+            {"altitude": 213.74},
+            {"timestamp": "Mon May 27 14:37:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614059},
+                {"longitude": 19.19195}
+            ]]},
+            {"altitude": 214.923},
+            {"timestamp": "Mon May 27 14:37:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614083},
+                {"longitude": 19.19206}
+            ]]},
+            {"altitude": 214.713},
+            {"timestamp": "Mon May 27 14:37:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614114},
+                {"longitude": 19.19227}
+            ]]},
+            {"altitude": 217.983},
+            {"timestamp": "Mon May 27 14:37:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614126},
+                {"longitude": 19.192329}
+            ]]},
+            {"altitude": 218.611},
+            {"timestamp": "Mon May 27 14:37:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614135},
+                {"longitude": 19.192368}
+            ]]},
+            {"altitude": 218.878},
+            {"timestamp": "Mon May 27 14:37:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614163},
+                {"longitude": 19.192462}
+            ]]},
+            {"altitude": 218.745},
+            {"timestamp": "Mon May 27 14:37:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614174},
+                {"longitude": 19.192549}
+            ]]},
+            {"altitude": 217.327},
+            {"timestamp": "Mon May 27 14:37:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614195},
+                {"longitude": 19.192644}
+            ]]},
+            {"altitude": 219.254},
+            {"timestamp": "Mon May 27 14:37:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614225},
+                {"longitude": 19.192726}
+            ]]},
+            {"altitude": 219.147},
+            {"timestamp": "Mon May 27 14:37:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614262},
+                {"longitude": 19.192767}
+            ]]},
+            {"altitude": 217.508},
+            {"timestamp": "Mon May 27 14:37:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614289},
+                {"longitude": 19.192827}
+            ]]},
+            {"altitude": 216.504},
+            {"timestamp": "Mon May 27 14:37:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61431},
+                {"longitude": 19.192896}
+            ]]},
+            {"altitude": 217.217},
+            {"timestamp": "Mon May 27 14:37:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614346},
+                {"longitude": 19.192976}
+            ]]},
+            {"altitude": 214.793},
+            {"timestamp": "Mon May 27 14:37:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614363},
+                {"longitude": 19.193069}
+            ]]},
+            {"altitude": 214.261},
+            {"timestamp": "Mon May 27 14:38:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614372},
+                {"longitude": 19.193171}
+            ]]},
+            {"altitude": 214.747},
+            {"timestamp": "Mon May 27 14:38:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614378},
+                {"longitude": 19.19323}
+            ]]},
+            {"altitude": 215.369},
+            {"timestamp": "Mon May 27 14:38:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614386},
+                {"longitude": 19.193295}
+            ]]},
+            {"altitude": 216.315},
+            {"timestamp": "Mon May 27 14:38:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614401},
+                {"longitude": 19.193368}
+            ]]},
+            {"altitude": 216.848},
+            {"timestamp": "Mon May 27 14:38:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614443},
+                {"longitude": 19.193425}
+            ]]},
+            {"altitude": 214.47},
+            {"timestamp": "Mon May 27 14:38:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614493},
+                {"longitude": 19.193448}
+            ]]},
+            {"altitude": 212.216},
+            {"timestamp": "Mon May 27 14:38:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614536},
+                {"longitude": 19.193487}
+            ]]},
+            {"altitude": 212.943},
+            {"timestamp": "Mon May 27 14:38:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614573},
+                {"longitude": 19.193527}
+            ]]},
+            {"altitude": 211.91},
+            {"timestamp": "Mon May 27 14:38:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614616},
+                {"longitude": 19.193602}
+            ]]},
+            {"altitude": 214.307},
+            {"timestamp": "Mon May 27 14:38:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614642},
+                {"longitude": 19.193677}
+            ]]},
+            {"altitude": 216.163},
+            {"timestamp": "Mon May 27 14:38:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614654},
+                {"longitude": 19.193719}
+            ]]},
+            {"altitude": 216.419},
+            {"timestamp": "Mon May 27 14:38:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614669},
+                {"longitude": 19.193803}
+            ]]},
+            {"altitude": 218.584},
+            {"timestamp": "Mon May 27 14:38:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614676},
+                {"longitude": 19.193841}
+            ]]},
+            {"altitude": 218.008},
+            {"timestamp": "Mon May 27 14:38:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614696},
+                {"longitude": 19.193928}
+            ]]},
+            {"altitude": 220.658},
+            {"timestamp": "Mon May 27 14:38:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614709},
+                {"longitude": 19.194015}
+            ]]},
+            {"altitude": 220.314},
+            {"timestamp": "Mon May 27 14:38:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614718},
+                {"longitude": 19.194071}
+            ]]},
+            {"altitude": 220.571},
+            {"timestamp": "Mon May 27 14:38:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614725},
+                {"longitude": 19.194112}
+            ]]},
+            {"altitude": 219.341},
+            {"timestamp": "Mon May 27 14:38:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614772},
+                {"longitude": 19.194162}
+            ]]},
+            {"altitude": 217.718},
+            {"timestamp": "Mon May 27 14:38:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614835},
+                {"longitude": 19.194138}
+            ]]},
+            {"altitude": 219.417},
+            {"timestamp": "Mon May 27 14:38:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61491},
+                {"longitude": 19.194133}
+            ]]},
+            {"altitude": 219.753},
+            {"timestamp": "Mon May 27 14:38:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614957},
+                {"longitude": 19.194132}
+            ]]},
+            {"altitude": 219.179},
+            {"timestamp": "Mon May 27 14:38:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.614999},
+                {"longitude": 19.194127}
+            ]]},
+            {"altitude": 218.383},
+            {"timestamp": "Mon May 27 14:38:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615048},
+                {"longitude": 19.194119}
+            ]]},
+            {"altitude": 216.549},
+            {"timestamp": "Mon May 27 14:38:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615099},
+                {"longitude": 19.194104}
+            ]]},
+            {"altitude": 217.254},
+            {"timestamp": "Mon May 27 14:38:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615149},
+                {"longitude": 19.194092}
+            ]]},
+            {"altitude": 217.845},
+            {"timestamp": "Mon May 27 14:38:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615189},
+                {"longitude": 19.194082}
+            ]]},
+            {"altitude": 218.241},
+            {"timestamp": "Mon May 27 14:38:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615226},
+                {"longitude": 19.194076}
+            ]]},
+            {"altitude": 217.798},
+            {"timestamp": "Mon May 27 14:38:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615306},
+                {"longitude": 19.194065}
+            ]]},
+            {"altitude": 218.362},
+            {"timestamp": "Mon May 27 14:38:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615385},
+                {"longitude": 19.194059}
+            ]]},
+            {"altitude": 218.984},
+            {"timestamp": "Mon May 27 14:38:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615518},
+                {"longitude": 19.194005}
+            ]]},
+            {"altitude": 218.868},
+            {"timestamp": "Mon May 27 14:38:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615596},
+                {"longitude": 19.193972}
+            ]]},
+            {"altitude": 220.092},
+            {"timestamp": "Mon May 27 14:39:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615654},
+                {"longitude": 19.193965}
+            ]]},
+            {"altitude": 220.067},
+            {"timestamp": "Mon May 27 14:39:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615703},
+                {"longitude": 19.193886}
+            ]]},
+            {"altitude": 220.156},
+            {"timestamp": "Mon May 27 14:39:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615725},
+                {"longitude": 19.193854}
+            ]]},
+            {"altitude": 220.343},
+            {"timestamp": "Mon May 27 14:39:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615765},
+                {"longitude": 19.193804}
+            ]]},
+            {"altitude": 223.395},
+            {"timestamp": "Mon May 27 14:39:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615812},
+                {"longitude": 19.193788}
+            ]]},
+            {"altitude": 224.218},
+            {"timestamp": "Mon May 27 14:39:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615866},
+                {"longitude": 19.193815}
+            ]]},
+            {"altitude": 226.515},
+            {"timestamp": "Mon May 27 14:39:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.615928},
+                {"longitude": 19.193763}
+            ]]},
+            {"altitude": 227.912},
+            {"timestamp": "Mon May 27 14:39:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616007},
+                {"longitude": 19.193708}
+            ]]},
+            {"altitude": 228.634},
+            {"timestamp": "Mon May 27 14:39:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616063},
+                {"longitude": 19.193686}
+            ]]},
+            {"altitude": 230.674},
+            {"timestamp": "Mon May 27 14:39:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616146},
+                {"longitude": 19.193645}
+            ]]},
+            {"altitude": 234.936},
+            {"timestamp": "Mon May 27 14:39:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616202},
+                {"longitude": 19.193593}
+            ]]},
+            {"altitude": 234.854},
+            {"timestamp": "Mon May 27 14:39:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616268},
+                {"longitude": 19.193549}
+            ]]},
+            {"altitude": 237.872},
+            {"timestamp": "Mon May 27 14:39:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616326},
+                {"longitude": 19.193515}
+            ]]},
+            {"altitude": 238.973},
+            {"timestamp": "Mon May 27 14:39:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61637},
+                {"longitude": 19.193484}
+            ]]},
+            {"altitude": 239.371},
+            {"timestamp": "Mon May 27 14:39:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616397},
+                {"longitude": 19.193468}
+            ]]},
+            {"altitude": 239.768},
+            {"timestamp": "Mon May 27 14:39:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616448},
+                {"longitude": 19.193442}
+            ]]},
+            {"altitude": 238.617},
+            {"timestamp": "Mon May 27 14:39:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616474},
+                {"longitude": 19.193427}
+            ]]},
+            {"altitude": 238.913},
+            {"timestamp": "Mon May 27 14:39:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616499},
+                {"longitude": 19.193413}
+            ]]},
+            {"altitude": 239.661},
+            {"timestamp": "Mon May 27 14:39:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616554},
+                {"longitude": 19.19338}
+            ]]},
+            {"altitude": 239.516},
+            {"timestamp": "Mon May 27 14:39:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616586},
+                {"longitude": 19.193357}
+            ]]},
+            {"altitude": 240.482},
+            {"timestamp": "Mon May 27 14:39:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616615},
+                {"longitude": 19.193334}
+            ]]},
+            {"altitude": 240.375},
+            {"timestamp": "Mon May 27 14:39:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616658},
+                {"longitude": 19.193288}
+            ]]},
+            {"altitude": 239.222},
+            {"timestamp": "Mon May 27 14:39:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616712},
+                {"longitude": 19.193261}
+            ]]},
+            {"altitude": 239.219},
+            {"timestamp": "Mon May 27 14:39:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616779},
+                {"longitude": 19.193274}
+            ]]},
+            {"altitude": 239.791},
+            {"timestamp": "Mon May 27 14:39:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616813},
+                {"longitude": 19.19328}
+            ]]},
+            {"altitude": 242.973},
+            {"timestamp": "Mon May 27 14:39:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616935},
+                {"longitude": 19.193249}
+            ]]},
+            {"altitude": 207.423},
+            {"timestamp": "Mon May 27 14:39:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617011},
+                {"longitude": 19.193191}
+            ]]},
+            {"altitude": 214.504},
+            {"timestamp": "Mon May 27 14:40:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617045},
+                {"longitude": 19.19316}
+            ]]},
+            {"altitude": 218.542},
+            {"timestamp": "Mon May 27 14:40:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617073},
+                {"longitude": 19.193132}
+            ]]},
+            {"altitude": 220.068},
+            {"timestamp": "Mon May 27 14:40:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617177},
+                {"longitude": 19.193058}
+            ]]},
+            {"altitude": 227.943},
+            {"timestamp": "Mon May 27 14:40:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617254},
+                {"longitude": 19.193016}
+            ]]},
+            {"altitude": 231.788},
+            {"timestamp": "Mon May 27 14:40:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617296},
+                {"longitude": 19.192988}
+            ]]},
+            {"altitude": 233.856},
+            {"timestamp": "Mon May 27 14:40:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617336},
+                {"longitude": 19.192956}
+            ]]},
+            {"altitude": 233.784},
+            {"timestamp": "Mon May 27 14:40:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617375},
+                {"longitude": 19.192923}
+            ]]},
+            {"altitude": 235.024},
+            {"timestamp": "Mon May 27 14:40:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617458},
+                {"longitude": 19.192864}
+            ]]},
+            {"altitude": 236.174},
+            {"timestamp": "Mon May 27 14:40:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617532},
+                {"longitude": 19.192853}
+            ]]},
+            {"altitude": 239.354},
+            {"timestamp": "Mon May 27 14:40:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617583},
+                {"longitude": 19.192834}
+            ]]},
+            {"altitude": 240.59},
+            {"timestamp": "Mon May 27 14:40:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617632},
+                {"longitude": 19.192798}
+            ]]},
+            {"altitude": 240.857},
+            {"timestamp": "Mon May 27 14:40:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617658},
+                {"longitude": 19.192727}
+            ]]},
+            {"altitude": 244.552},
+            {"timestamp": "Mon May 27 14:40:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617667},
+                {"longitude": 19.192656}
+            ]]},
+            {"altitude": 242.564},
+            {"timestamp": "Mon May 27 14:40:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617712},
+                {"longitude": 19.192606}
+            ]]},
+            {"altitude": 240.451},
+            {"timestamp": "Mon May 27 14:40:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617791},
+                {"longitude": 19.192586}
+            ]]},
+            {"altitude": 244.652},
+            {"timestamp": "Mon May 27 14:40:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617843},
+                {"longitude": 19.192548}
+            ]]},
+            {"altitude": 247.385},
+            {"timestamp": "Mon May 27 14:40:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61788},
+                {"longitude": 19.192526}
+            ]]},
+            {"altitude": 244.807},
+            {"timestamp": "Mon May 27 14:40:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617926},
+                {"longitude": 19.192488}
+            ]]},
+            {"altitude": 245.704},
+            {"timestamp": "Mon May 27 14:40:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617966},
+                {"longitude": 19.192439}
+            ]]},
+            {"altitude": 245.139},
+            {"timestamp": "Mon May 27 14:40:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617992},
+                {"longitude": 19.192412}
+            ]]},
+            {"altitude": 247.714},
+            {"timestamp": "Mon May 27 14:40:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618048},
+                {"longitude": 19.192377}
+            ]]},
+            {"altitude": 248.153},
+            {"timestamp": "Mon May 27 14:40:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618083},
+                {"longitude": 19.192359}
+            ]]},
+            {"altitude": 248.077},
+            {"timestamp": "Mon May 27 14:40:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618064},
+                {"longitude": 19.192224}
+            ]]},
+            {"altitude": 230.521},
+            {"timestamp": "Mon May 27 14:40:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618077},
+                {"longitude": 19.192116}
+            ]]},
+            {"altitude": 228.629},
+            {"timestamp": "Mon May 27 14:41:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618125},
+                {"longitude": 19.192039}
+            ]]},
+            {"altitude": 225.544},
+            {"timestamp": "Mon May 27 14:41:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618141},
+                {"longitude": 19.192011}
+            ]]},
+            {"altitude": 225.446},
+            {"timestamp": "Mon May 27 14:41:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61818},
+                {"longitude": 19.191965}
+            ]]},
+            {"altitude": 225.311},
+            {"timestamp": "Mon May 27 14:41:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618224},
+                {"longitude": 19.191928}
+            ]]},
+            {"altitude": 224.646},
+            {"timestamp": "Mon May 27 14:41:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618246},
+                {"longitude": 19.191908}
+            ]]},
+            {"altitude": 223.441},
+            {"timestamp": "Mon May 27 14:41:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618272},
+                {"longitude": 19.191889}
+            ]]},
+            {"altitude": 223.245},
+            {"timestamp": "Mon May 27 14:41:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618308},
+                {"longitude": 19.191856}
+            ]]},
+            {"altitude": 223.259},
+            {"timestamp": "Mon May 27 14:41:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618361},
+                {"longitude": 19.191798}
+            ]]},
+            {"altitude": 220.042},
+            {"timestamp": "Mon May 27 14:41:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618424},
+                {"longitude": 19.191757}
+            ]]},
+            {"altitude": 219.377},
+            {"timestamp": "Mon May 27 14:41:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61845},
+                {"longitude": 19.19174}
+            ]]},
+            {"altitude": 219.99},
+            {"timestamp": "Mon May 27 14:41:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618476},
+                {"longitude": 19.191725}
+            ]]},
+            {"altitude": 219.049},
+            {"timestamp": "Mon May 27 14:41:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618501},
+                {"longitude": 19.191709}
+            ]]},
+            {"altitude": 217.259},
+            {"timestamp": "Mon May 27 14:41:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618525},
+                {"longitude": 19.191697}
+            ]]},
+            {"altitude": 217.821},
+            {"timestamp": "Mon May 27 14:41:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61855},
+                {"longitude": 19.191683}
+            ]]},
+            {"altitude": 217.581},
+            {"timestamp": "Mon May 27 14:41:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61858},
+                {"longitude": 19.191669}
+            ]]},
+            {"altitude": 218.371},
+            {"timestamp": "Mon May 27 14:41:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618608},
+                {"longitude": 19.191655}
+            ]]},
+            {"altitude": 217.539},
+            {"timestamp": "Mon May 27 14:41:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618652},
+                {"longitude": 19.191622}
+            ]]},
+            {"altitude": 217.724},
+            {"timestamp": "Mon May 27 14:41:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618674},
+                {"longitude": 19.191604}
+            ]]},
+            {"altitude": 217.879},
+            {"timestamp": "Mon May 27 14:41:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618721},
+                {"longitude": 19.191568}
+            ]]},
+            {"altitude": 218.966},
+            {"timestamp": "Mon May 27 14:41:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618747},
+                {"longitude": 19.191548}
+            ]]},
+            {"altitude": 219.474},
+            {"timestamp": "Mon May 27 14:41:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618772},
+                {"longitude": 19.191528}
+            ]]},
+            {"altitude": 220.09},
+            {"timestamp": "Mon May 27 14:41:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618797},
+                {"longitude": 19.191508}
+            ]]},
+            {"altitude": 220.561},
+            {"timestamp": "Mon May 27 14:41:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618823},
+                {"longitude": 19.191486}
+            ]]},
+            {"altitude": 221.122},
+            {"timestamp": "Mon May 27 14:41:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618849},
+                {"longitude": 19.191465}
+            ]]},
+            {"altitude": 222.29},
+            {"timestamp": "Mon May 27 14:41:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618899},
+                {"longitude": 19.191433}
+            ]]},
+            {"altitude": 220.926},
+            {"timestamp": "Mon May 27 14:41:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618925},
+                {"longitude": 19.191416}
+            ]]},
+            {"altitude": 221.745},
+            {"timestamp": "Mon May 27 14:41:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618949},
+                {"longitude": 19.191398}
+            ]]},
+            {"altitude": 222.009},
+            {"timestamp": "Mon May 27 14:41:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618972},
+                {"longitude": 19.19138}
+            ]]},
+            {"altitude": 221.703},
+            {"timestamp": "Mon May 27 14:41:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618998},
+                {"longitude": 19.191361}
+            ]]},
+            {"altitude": 223.034},
+            {"timestamp": "Mon May 27 14:41:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619022},
+                {"longitude": 19.191346}
+            ]]},
+            {"altitude": 223.278},
+            {"timestamp": "Mon May 27 14:41:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619043},
+                {"longitude": 19.191328}
+            ]]},
+            {"altitude": 223.219},
+            {"timestamp": "Mon May 27 14:41:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619106},
+                {"longitude": 19.191265}
+            ]]},
+            {"altitude": 222.311},
+            {"timestamp": "Mon May 27 14:41:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619152},
+                {"longitude": 19.191201}
+            ]]},
+            {"altitude": 224.044},
+            {"timestamp": "Mon May 27 14:41:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619186},
+                {"longitude": 19.191122}
+            ]]},
+            {"altitude": 223.771},
+            {"timestamp": "Mon May 27 14:42:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619185},
+                {"longitude": 19.191027}
+            ]]},
+            {"altitude": 220.975},
+            {"timestamp": "Mon May 27 14:42:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61917},
+                {"longitude": 19.190932}
+            ]]},
+            {"altitude": 218.873},
+            {"timestamp": "Mon May 27 14:42:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619164},
+                {"longitude": 19.190889}
+            ]]},
+            {"altitude": 217.732},
+            {"timestamp": "Mon May 27 14:42:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619156},
+                {"longitude": 19.190845}
+            ]]},
+            {"altitude": 217.972},
+            {"timestamp": "Mon May 27 14:42:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619148},
+                {"longitude": 19.190807}
+            ]]},
+            {"altitude": 219.004},
+            {"timestamp": "Mon May 27 14:42:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619121},
+                {"longitude": 19.190699}
+            ]]},
+            {"altitude": 217.478},
+            {"timestamp": "Mon May 27 14:42:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619113},
+                {"longitude": 19.19066}
+            ]]},
+            {"altitude": 217.96},
+            {"timestamp": "Mon May 27 14:42:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619106},
+                {"longitude": 19.190616}
+            ]]},
+            {"altitude": 217.616},
+            {"timestamp": "Mon May 27 14:42:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619095},
+                {"longitude": 19.190508}
+            ]]},
+            {"altitude": 217.784},
+            {"timestamp": "Mon May 27 14:42:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619088},
+                {"longitude": 19.190466}
+            ]]},
+            {"altitude": 218.555},
+            {"timestamp": "Mon May 27 14:42:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619082},
+                {"longitude": 19.190424}
+            ]]},
+            {"altitude": 219.072},
+            {"timestamp": "Mon May 27 14:42:23 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619075},
+                {"longitude": 19.190382}
+            ]]},
+            {"altitude": 218.028},
+            {"timestamp": "Mon May 27 14:42:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619061},
+                {"longitude": 19.190306}
+            ]]},
+            {"altitude": 217.983},
+            {"timestamp": "Mon May 27 14:42:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619055},
+                {"longitude": 19.19027}
+            ]]},
+            {"altitude": 216.073},
+            {"timestamp": "Mon May 27 14:42:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619049},
+                {"longitude": 19.190193}
+            ]]},
+            {"altitude": 215.692},
+            {"timestamp": "Mon May 27 14:42:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619047},
+                {"longitude": 19.190153}
+            ]]},
+            {"altitude": 217.061},
+            {"timestamp": "Mon May 27 14:42:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619019},
+                {"longitude": 19.190047}
+            ]]},
+            {"altitude": 216.047},
+            {"timestamp": "Mon May 27 14:42:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.619007},
+                {"longitude": 19.190004}
+            ]]},
+            {"altitude": 214.956},
+            {"timestamp": "Mon May 27 14:42:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618997},
+                {"longitude": 19.189963}
+            ]]},
+            {"altitude": 215.735},
+            {"timestamp": "Mon May 27 14:42:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618989},
+                {"longitude": 19.189927}
+            ]]},
+            {"altitude": 214.733},
+            {"timestamp": "Mon May 27 14:42:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618972},
+                {"longitude": 19.18987}
+            ]]},
+            {"altitude": 215.205},
+            {"timestamp": "Mon May 27 14:42:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61897},
+                {"longitude": 19.189778}
+            ]]},
+            {"altitude": 215.996},
+            {"timestamp": "Mon May 27 14:42:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618973},
+                {"longitude": 19.189689}
+            ]]},
+            {"altitude": 216.568},
+            {"timestamp": "Mon May 27 14:42:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618971},
+                {"longitude": 19.189615}
+            ]]},
+            {"altitude": 214.569},
+            {"timestamp": "Mon May 27 14:42:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61898},
+                {"longitude": 19.189536}
+            ]]},
+            {"altitude": 215.247},
+            {"timestamp": "Mon May 27 14:42:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618978},
+                {"longitude": 19.189448}
+            ]]},
+            {"altitude": 214.994},
+            {"timestamp": "Mon May 27 14:42:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618956},
+                {"longitude": 19.189361}
+            ]]},
+            {"altitude": 217.648},
+            {"timestamp": "Mon May 27 14:42:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61893},
+                {"longitude": 19.189281}
+            ]]},
+            {"altitude": 218.757},
+            {"timestamp": "Mon May 27 14:43:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618921},
+                {"longitude": 19.189208}
+            ]]},
+            {"altitude": 216.725},
+            {"timestamp": "Mon May 27 14:43:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618918},
+                {"longitude": 19.189124}
+            ]]},
+            {"altitude": 215.783},
+            {"timestamp": "Mon May 27 14:43:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618905},
+                {"longitude": 19.18905}
+            ]]},
+            {"altitude": 218.624},
+            {"timestamp": "Mon May 27 14:43:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618903},
+                {"longitude": 19.188971}
+            ]]},
+            {"altitude": 219.306},
+            {"timestamp": "Mon May 27 14:43:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618888},
+                {"longitude": 19.188902}
+            ]]},
+            {"altitude": 218.97},
+            {"timestamp": "Mon May 27 14:43:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618889},
+                {"longitude": 19.188813}
+            ]]},
+            {"altitude": 217.478},
+            {"timestamp": "Mon May 27 14:43:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618881},
+                {"longitude": 19.188734}
+            ]]},
+            {"altitude": 217.456},
+            {"timestamp": "Mon May 27 14:43:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618876},
+                {"longitude": 19.188683}
+            ]]},
+            {"altitude": 217.333},
+            {"timestamp": "Mon May 27 14:43:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618855},
+                {"longitude": 19.188601}
+            ]]},
+            {"altitude": 218.225},
+            {"timestamp": "Mon May 27 14:43:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618843},
+                {"longitude": 19.188543}
+            ]]},
+            {"altitude": 217.998},
+            {"timestamp": "Mon May 27 14:43:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618843},
+                {"longitude": 19.188465}
+            ]]},
+            {"altitude": 218.724},
+            {"timestamp": "Mon May 27 14:43:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618866},
+                {"longitude": 19.188385}
+            ]]},
+            {"altitude": 219.022},
+            {"timestamp": "Mon May 27 14:43:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618856},
+                {"longitude": 19.188265}
+            ]]},
+            {"altitude": 216.379},
+            {"timestamp": "Mon May 27 14:43:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618816},
+                {"longitude": 19.188194}
+            ]]},
+            {"altitude": 214.225},
+            {"timestamp": "Mon May 27 14:43:45 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618748},
+                {"longitude": 19.18816}
+            ]]},
+            {"altitude": 215.609},
+            {"timestamp": "Mon May 27 14:43:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618685},
+                {"longitude": 19.188162}
+            ]]},
+            {"altitude": 217.894},
+            {"timestamp": "Mon May 27 14:43:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618641},
+                {"longitude": 19.188195}
+            ]]},
+            {"altitude": 215.68},
+            {"timestamp": "Mon May 27 14:43:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618624},
+                {"longitude": 19.188298}
+            ]]},
+            {"altitude": 215.807},
+            {"timestamp": "Mon May 27 14:43:54 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618632},
+                {"longitude": 19.188378}
+            ]]},
+            {"altitude": 215.939},
+            {"timestamp": "Mon May 27 14:43:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618637},
+                {"longitude": 19.188422}
+            ]]},
+            {"altitude": 216.325},
+            {"timestamp": "Mon May 27 14:43:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618637},
+                {"longitude": 19.188504}
+            ]]},
+            {"altitude": 216.122},
+            {"timestamp": "Mon May 27 14:43:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618635},
+                {"longitude": 19.188566}
+            ]]},
+            {"altitude": 215.318},
+            {"timestamp": "Mon May 27 14:44:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618636},
+                {"longitude": 19.188623}
+            ]]},
+            {"altitude": 216.027},
+            {"timestamp": "Mon May 27 14:44:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618636},
+                {"longitude": 19.188688}
+            ]]},
+            {"altitude": 215.578},
+            {"timestamp": "Mon May 27 14:44:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618639},
+                {"longitude": 19.188769}
+            ]]},
+            {"altitude": 214.246},
+            {"timestamp": "Mon May 27 14:44:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618634},
+                {"longitude": 19.188865}
+            ]]},
+            {"altitude": 214.273},
+            {"timestamp": "Mon May 27 14:44:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618631},
+                {"longitude": 19.188911}
+            ]]},
+            {"altitude": 214.267},
+            {"timestamp": "Mon May 27 14:44:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618631},
+                {"longitude": 19.188957}
+            ]]},
+            {"altitude": 213.589},
+            {"timestamp": "Mon May 27 14:44:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618629},
+                {"longitude": 19.189011}
+            ]]},
+            {"altitude": 214.522},
+            {"timestamp": "Mon May 27 14:44:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618593},
+                {"longitude": 19.18915}
+            ]]},
+            {"altitude": 214.725},
+            {"timestamp": "Mon May 27 14:44:15 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61858},
+                {"longitude": 19.189192}
+            ]]},
+            {"altitude": 214.932},
+            {"timestamp": "Mon May 27 14:44:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618564},
+                {"longitude": 19.189235}
+            ]]},
+            {"altitude": 215.237},
+            {"timestamp": "Mon May 27 14:44:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618514},
+                {"longitude": 19.189309}
+            ]]},
+            {"altitude": 216.069},
+            {"timestamp": "Mon May 27 14:44:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618421},
+                {"longitude": 19.189355}
+            ]]},
+            {"altitude": 218.429},
+            {"timestamp": "Mon May 27 14:44:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61836},
+                {"longitude": 19.189364}
+            ]]},
+            {"altitude": 219.271},
+            {"timestamp": "Mon May 27 14:44:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618332},
+                {"longitude": 19.189366}
+            ]]},
+            {"altitude": 218.665},
+            {"timestamp": "Mon May 27 14:44:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618306},
+                {"longitude": 19.189367}
+            ]]},
+            {"altitude": 218.73},
+            {"timestamp": "Mon May 27 14:44:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618243},
+                {"longitude": 19.18936}
+            ]]},
+            {"altitude": 218.422},
+            {"timestamp": "Mon May 27 14:44:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618211},
+                {"longitude": 19.189359}
+            ]]},
+            {"altitude": 217.737},
+            {"timestamp": "Mon May 27 14:44:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61818},
+                {"longitude": 19.189361}
+            ]]},
+            {"altitude": 218.028},
+            {"timestamp": "Mon May 27 14:44:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618149},
+                {"longitude": 19.189364}
+            ]]},
+            {"altitude": 216.964},
+            {"timestamp": "Mon May 27 14:44:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618119},
+                {"longitude": 19.189363}
+            ]]},
+            {"altitude": 218.182},
+            {"timestamp": "Mon May 27 14:44:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618059},
+                {"longitude": 19.189348}
+            ]]},
+            {"altitude": 218.128},
+            {"timestamp": "Mon May 27 14:44:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.618025},
+                {"longitude": 19.189334}
+            ]]},
+            {"altitude": 219.047},
+            {"timestamp": "Mon May 27 14:44:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617987},
+                {"longitude": 19.189318}
+            ]]},
+            {"altitude": 219.778},
+            {"timestamp": "Mon May 27 14:44:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61795},
+                {"longitude": 19.189298}
+            ]]},
+            {"altitude": 218.786},
+            {"timestamp": "Mon May 27 14:44:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617915},
+                {"longitude": 19.189277}
+            ]]},
+            {"altitude": 217.609},
+            {"timestamp": "Mon May 27 14:44:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617883},
+                {"longitude": 19.189261}
+            ]]},
+            {"altitude": 217.873},
+            {"timestamp": "Mon May 27 14:44:39 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617851},
+                {"longitude": 19.189244}
+            ]]},
+            {"altitude": 217.558},
+            {"timestamp": "Mon May 27 14:44:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617802},
+                {"longitude": 19.189231}
+            ]]},
+            {"altitude": 216.459},
+            {"timestamp": "Mon May 27 14:44:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617748},
+                {"longitude": 19.189227}
+            ]]},
+            {"altitude": 214.346},
+            {"timestamp": "Mon May 27 14:44:44 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617697},
+                {"longitude": 19.189241}
+            ]]},
+            {"altitude": 214.451},
+            {"timestamp": "Mon May 27 14:44:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617644},
+                {"longitude": 19.189251}
+            ]]},
+            {"altitude": 214.602},
+            {"timestamp": "Mon May 27 14:44:48 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617555},
+                {"longitude": 19.189245}
+            ]]},
+            {"altitude": 214.406},
+            {"timestamp": "Mon May 27 14:44:51 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.6175},
+                {"longitude": 19.189236}
+            ]]},
+            {"altitude": 215.464},
+            {"timestamp": "Mon May 27 14:44:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617449},
+                {"longitude": 19.189235}
+            ]]},
+            {"altitude": 216.265},
+            {"timestamp": "Mon May 27 14:44:55 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617424},
+                {"longitude": 19.189237}
+            ]]},
+            {"altitude": 215.891},
+            {"timestamp": "Mon May 27 14:44:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617392},
+                {"longitude": 19.189237}
+            ]]},
+            {"altitude": 217.126},
+            {"timestamp": "Mon May 27 14:44:57 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617358},
+                {"longitude": 19.189234}
+            ]]},
+            {"altitude": 216.151},
+            {"timestamp": "Mon May 27 14:44:58 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617326},
+                {"longitude": 19.189234}
+            ]]},
+            {"altitude": 216.344},
+            {"timestamp": "Mon May 27 14:44:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617293},
+                {"longitude": 19.189233}
+            ]]},
+            {"altitude": 216.881},
+            {"timestamp": "Mon May 27 14:45:00 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61726},
+                {"longitude": 19.189232}
+            ]]},
+            {"altitude": 217.456},
+            {"timestamp": "Mon May 27 14:45:01 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617227},
+                {"longitude": 19.189232}
+            ]]},
+            {"altitude": 218.384},
+            {"timestamp": "Mon May 27 14:45:02 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.6172},
+                {"longitude": 19.189235}
+            ]]},
+            {"altitude": 218.539},
+            {"timestamp": "Mon May 27 14:45:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617171},
+                {"longitude": 19.189238}
+            ]]},
+            {"altitude": 217.78},
+            {"timestamp": "Mon May 27 14:45:04 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617141},
+                {"longitude": 19.189236}
+            ]]},
+            {"altitude": 217.758},
+            {"timestamp": "Mon May 27 14:45:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617111},
+                {"longitude": 19.189232}
+            ]]},
+            {"altitude": 218.604},
+            {"timestamp": "Mon May 27 14:45:06 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617054},
+                {"longitude": 19.189211}
+            ]]},
+            {"altitude": 213.331},
+            {"timestamp": "Mon May 27 14:45:08 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.617031},
+                {"longitude": 19.189201}
+            ]]},
+            {"altitude": 213.911},
+            {"timestamp": "Mon May 27 14:45:09 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616974},
+                {"longitude": 19.189196}
+            ]]},
+            {"altitude": 215.603},
+            {"timestamp": "Mon May 27 14:45:11 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61691},
+                {"longitude": 19.189199}
+            ]]},
+            {"altitude": 216.029},
+            {"timestamp": "Mon May 27 14:45:13 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616877},
+                {"longitude": 19.189198}
+            ]]},
+            {"altitude": 216.416},
+            {"timestamp": "Mon May 27 14:45:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616818},
+                {"longitude": 19.189178}
+            ]]},
+            {"altitude": 214.379},
+            {"timestamp": "Mon May 27 14:45:16 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616789},
+                {"longitude": 19.189167}
+            ]]},
+            {"altitude": 213.686},
+            {"timestamp": "Mon May 27 14:45:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61676},
+                {"longitude": 19.189156}
+            ]]},
+            {"altitude": 212.287},
+            {"timestamp": "Mon May 27 14:45:18 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616701},
+                {"longitude": 19.189139}
+            ]]},
+            {"altitude": 211.81},
+            {"timestamp": "Mon May 27 14:45:20 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616673},
+                {"longitude": 19.189133}
+            ]]},
+            {"altitude": 211.879},
+            {"timestamp": "Mon May 27 14:45:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616649},
+                {"longitude": 19.189125}
+            ]]},
+            {"altitude": 210.957},
+            {"timestamp": "Mon May 27 14:45:22 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61659},
+                {"longitude": 19.189128}
+            ]]},
+            {"altitude": 211.87},
+            {"timestamp": "Mon May 27 14:45:24 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616525},
+                {"longitude": 19.189128}
+            ]]},
+            {"altitude": 206.759},
+            {"timestamp": "Mon May 27 14:45:26 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616491},
+                {"longitude": 19.189126}
+            ]]},
+            {"altitude": 207.793},
+            {"timestamp": "Mon May 27 14:45:27 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616461},
+                {"longitude": 19.189122}
+            ]]},
+            {"altitude": 208.939},
+            {"timestamp": "Mon May 27 14:45:28 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616431},
+                {"longitude": 19.189115}
+            ]]},
+            {"altitude": 209.541},
+            {"timestamp": "Mon May 27 14:45:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616403},
+                {"longitude": 19.189108}
+            ]]},
+            {"altitude": 209.718},
+            {"timestamp": "Mon May 27 14:45:30 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616372},
+                {"longitude": 19.189103}
+            ]]},
+            {"altitude": 210.382},
+            {"timestamp": "Mon May 27 14:45:31 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616344},
+                {"longitude": 19.189098}
+            ]]},
+            {"altitude": 209.771},
+            {"timestamp": "Mon May 27 14:45:32 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616296},
+                {"longitude": 19.189064}
+            ]]},
+            {"altitude": 211.925},
+            {"timestamp": "Mon May 27 14:45:34 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616272},
+                {"longitude": 19.188988}
+            ]]},
+            {"altitude": 214.228},
+            {"timestamp": "Mon May 27 14:45:36 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616281},
+                {"longitude": 19.18888}
+            ]]},
+            {"altitude": 214.912},
+            {"timestamp": "Mon May 27 14:45:38 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616299},
+                {"longitude": 19.188761}
+            ]]},
+            {"altitude": 213.453},
+            {"timestamp": "Mon May 27 14:45:40 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.6163},
+                {"longitude": 19.188658}
+            ]]},
+            {"altitude": 213.235},
+            {"timestamp": "Mon May 27 14:45:42 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616294},
+                {"longitude": 19.188581}
+            ]]},
+            {"altitude": 214.405},
+            {"timestamp": "Mon May 27 14:45:46 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616292},
+                {"longitude": 19.188532}
+            ]]},
+            {"altitude": 215.406},
+            {"timestamp": "Mon May 27 14:45:49 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616295},
+                {"longitude": 19.188459}
+            ]]},
+            {"altitude": 217.909},
+            {"timestamp": "Mon May 27 14:45:52 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616288},
+                {"longitude": 19.188372}
+            ]]},
+            {"altitude": 219.426},
+            {"timestamp": "Mon May 27 14:45:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616287},
+                {"longitude": 19.188321}
+            ]]},
+            {"altitude": 219.36},
+            {"timestamp": "Mon May 27 14:45:59 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616297},
+                {"longitude": 19.188227}
+            ]]},
+            {"altitude": 221.053},
+            {"timestamp": "Mon May 27 14:46:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616303},
+                {"longitude": 19.188182}
+            ]]},
+            {"altitude": 219.018},
+            {"timestamp": "Mon May 27 14:46:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616308},
+                {"longitude": 19.188141}
+            ]]},
+            {"altitude": 219.836},
+            {"timestamp": "Mon May 27 14:46:07 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616305},
+                {"longitude": 19.188053}
+            ]]},
+            {"altitude": 220.33},
+            {"timestamp": "Mon May 27 14:46:10 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616302},
+                {"longitude": 19.187997}
+            ]]},
+            {"altitude": 220.513},
+            {"timestamp": "Mon May 27 14:46:12 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.6163},
+                {"longitude": 19.187948}
+            ]]},
+            {"altitude": 219.596},
+            {"timestamp": "Mon May 27 14:46:14 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616318},
+                {"longitude": 19.187853}
+            ]]},
+            {"altitude": 219.275},
+            {"timestamp": "Mon May 27 14:46:17 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616328},
+                {"longitude": 19.187809}
+            ]]},
+            {"altitude": 220.252},
+            {"timestamp": "Mon May 27 14:46:19 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616336},
+                {"longitude": 19.187771}
+            ]]},
+            {"altitude": 221.404},
+            {"timestamp": "Mon May 27 14:46:21 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616374},
+                {"longitude": 19.187731}
+            ]]},
+            {"altitude": 221.166},
+            {"timestamp": "Mon May 27 14:46:25 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616418},
+                {"longitude": 19.187753}
+            ]]},
+            {"altitude": 220.307},
+            {"timestamp": "Mon May 27 14:46:29 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616467},
+                {"longitude": 19.187753}
+            ]]},
+            {"altitude": 220.316},
+            {"timestamp": "Mon May 27 14:46:33 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616491},
+                {"longitude": 19.187755}
+            ]]},
+            {"altitude": 219.311},
+            {"timestamp": "Mon May 27 14:46:35 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616517},
+                {"longitude": 19.187754}
+            ]]},
+            {"altitude": 218.988},
+            {"timestamp": "Mon May 27 14:46:37 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616562},
+                {"longitude": 19.187766}
+            ]]},
+            {"altitude": 218.523},
+            {"timestamp": "Mon May 27 14:46:41 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616588},
+                {"longitude": 19.187774}
+            ]]},
+            {"altitude": 221.391},
+            {"timestamp": "Mon May 27 14:46:43 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.61664},
+                {"longitude": 19.187772}
+            ]]},
+            {"altitude": 223.263},
+            {"timestamp": "Mon May 27 14:46:47 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616686},
+                {"longitude": 19.187747}
+            ]]},
+            {"altitude": 223.063},
+            {"timestamp": "Mon May 27 14:46:50 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616742},
+                {"longitude": 19.187748}
+            ]]},
+            {"altitude": 222.98},
+            {"timestamp": "Mon May 27 14:46:53 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616778},
+                {"longitude": 19.187749}
+            ]]},
+            {"altitude": 224.668},
+            {"timestamp": "Mon May 27 14:46:56 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616809},
+                {"longitude": 19.187734}
+            ]]},
+            {"altitude": 224.708},
+            {"timestamp": "Mon May 27 14:47:05 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616809},
+                {"longitude": 19.187734}
+            ]]},
+            {"timestamp": "Mon May 27 14:48:03 UTC 2019"}
+        ],
+        [
+            {"location": [[
+                {"latitude": 51.616809},
+                {"longitude": 19.187734}
+            ]]},
+            {"timestamp": "Mon May 27 14:48:05 UTC 2019"}
+        ]
+    ]}
+]

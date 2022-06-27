@@ -1,0 +1,16 @@
+[
+    {"sport": "RUNNING"},
+    {"source": "INPUT_MANUAL_MOBILE"},
+    {"created_date": "2019-05-26 15:26:59.0"},
+    {"start_time": "2019-05-24 15:00:10.0"},
+    {"end_time": "2019-05-24 15:35:10.0"},
+    {"duration_s": 2100},
+    {"distance_km": 5.25},
+    {"calories_kcal": 344},
+    {"speed_avg_kmh": 9},
+    {"hydration_l": 0.221811},
+    {"points": [[
+        {"distance_km": 5.25},
+        {"timestamp": "Fri May 24 15:00:10 UTC 2019"}
+    ]]}
+]

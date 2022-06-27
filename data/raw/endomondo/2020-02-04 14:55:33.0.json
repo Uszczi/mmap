@@ -1,0 +1,16 @@
+[
+    {"sport": "SWIMMING"},
+    {"source": "INPUT_MANUAL_MOBILE"},
+    {"created_date": "2020-02-04 14:55:33.0"},
+    {"start_time": "2020-02-03 17:00:14.0"},
+    {"end_time": "2020-02-03 17:45:14.0"},
+    {"duration_s": 2700},
+    {"distance_km": 0.550000011920929},
+    {"calories_kcal": 232},
+    {"speed_avg_kmh": 0.7333333492279053},
+    {"hydration_l": 0.162856},
+    {"points": [[
+        {"distance_km": 0.55},
+        {"timestamp": "Mon Feb 03 17:00:14 UTC 2020"}
+    ]]}
+]

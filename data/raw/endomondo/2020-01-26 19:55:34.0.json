@@ -1,0 +1,16 @@
+[
+    {"sport": "TREADMILL_RUNNING"},
+    {"source": "INPUT_MANUAL_MOBILE"},
+    {"created_date": "2020-01-26 19:55:34.0"},
+    {"start_time": "2020-01-26 19:55:26.0"},
+    {"end_time": "2020-01-26 20:25:26.0"},
+    {"duration_s": 1800},
+    {"distance_km": 4.099999904632568},
+    {"calories_kcal": 258},
+    {"speed_avg_kmh": 8.199999809265137},
+    {"hydration_l": 0.168044},
+    {"points": [[
+        {"distance_km": 4.1},
+        {"timestamp": "Sun Jan 26 19:55:26 UTC 2020"}
+    ]]}
+]

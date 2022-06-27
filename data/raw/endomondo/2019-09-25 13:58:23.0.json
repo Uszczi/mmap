@@ -1,0 +1,16 @@
+[
+    {"sport": "TREADMILL_RUNNING"},
+    {"source": "INPUT_MANUAL_MOBILE"},
+    {"created_date": "2019-09-25 13:58:23.0"},
+    {"start_time": "2019-09-25 13:00:37.0"},
+    {"end_time": "2019-09-25 13:30:37.0"},
+    {"duration_s": 1800},
+    {"distance_km": 3},
+    {"calories_kcal": 257},
+    {"speed_avg_kmh": 6},
+    {"hydration_l": 0.168044},
+    {"points": [[
+        {"distance_km": 3},
+        {"timestamp": "Wed Sep 25 13:00:37 UTC 2019"}
+    ]]}
+]
