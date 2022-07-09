@@ -12,8 +12,13 @@ router = APIRouter()
 def get_all_routes() -> list[dict]:
     with get_db() as db:
         models = db.query(RouteModel).all()
-        print(models)
 
-    routes = [asdict(model.to_route_()) for model in models]
+    models = [r for r in models if len(r.points) != 0]
+    routes = []
+    for m in models:
+        try:
+            routes.append(asdict(m.to_route_()))
+        except:
+            pass
 
     return routes

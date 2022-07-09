@@ -37,16 +37,21 @@ class RouteModel(Base):
 
         return Route(id=self.id, activity=ActivityType(self.activity), points=points)  # type: ignore
 
-    def to_route_(self) -> Route:
+    def to_route_(self) -> Route | None:
         points = []
         splited_points = self.points.split("|")
-        for i, point in enumerate(splited_points):
-            if i % 10 != 1: continue
+        splited_points = splited_points[::20]
 
+        if len(splited_points) < 10:
+            # Something is broken with loading
+            return None
+
+        for point in splited_points:
             lat, lon = point.split(",")
             points.append((float(lat), float(lon)))
 
         return Route(id=self.id, activity=ActivityType(self.activity), points=points)  # type: ignore
+
 
 @define(kw_only=True)
 class Route:

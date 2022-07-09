@@ -51,7 +51,6 @@ def parse_file(file):
     points = parse_xml(tree)
     activity = get_activity_type(tree)
     route = Route(points=points, activity=activity)
-    print(points)
     model = RouteModel.from_route(route)
     save_model(model)
 
